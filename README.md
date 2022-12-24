@@ -1,12 +1,13 @@
+
 # Hi, I'm ~Derrick~ Drk.
 <p>
 <a href="https://www.linkedin.com/in/nsubuga-derrick"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" width="90"/></a>
  <a href="https://www.hackerrank.com/profile/drkNsubuga" target="_blank"><img src=https://img.shields.io/badge/hackerank-068932?style=for-the-badge&logo=hackerrank&logoColor=white alt="LinkedIn" width="90"/></a> <a href="https://stackoverflow.com/users/6547542/drk" target="_blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/6547542?color=orange&label=STACKOVERLOW&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" width="130" alt="Stackover reputation"/></a> 
 <img src="https://komarev.com/ghpvc/?username=drkNsubuga1&label=Profile%20views&color=0e75b6&style=flat" alt="Git hub Profile views" />
 </p>
-<p>I love building awesome products with web and IoT.</p>
+<p>I love building awesome products with Web and IoT.</p>
 
-## I'm pretty fluent with
+## I'm pretty productive with these
 ### 💖 Languages
 <!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="35" title="HTML" alt="HTML"/> <!-- CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="35" title="CSS" alt="CSS"/> <!-- Javascript --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35" title="JavaScript" alt="JavaScript"/> <!-- Javascript --> <!-- C --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" title="C" alt="C"/>  <!-- PHP -->
@@ -15,7 +16,9 @@
 ### 🏹 Tools and Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" title="Bootstrap" alt="Bootstrap"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="35" title="JQuery" alt="jQuery"/><!--VueJS--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="35" title="VueJs" alt="VueJS"/> <!--Node Js--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="NodeJS" alt="NodeJS"/> <!--laravel--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="35" title="Laravel" alt="Laravel"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="35" title="Codeigniter" alt="Laravel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="35" title="Arduino" alt="Arduino"/><!-- - Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="GIT" alt="GIT"/> <!---composer--><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="35" title="Composer" alt="Composer"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" title="Docker" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="35" title="Heroku" alt="Heroku"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" title="Google CLoud" alt="Google CLoud"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="35" title="AWS" alt="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="35" title="Photoshop" alt="Adobe Photoshop"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="35" title="Adobe Illustrator" alt="Adobe Illustrator"/>
-<!-- ## I have done magic for
+
+#### and more...
+<!-- ## I have done magic for-->
 
 
 <!-- ## I am currently working on -->
@@ -23,5 +26,3 @@
 
 ## Current Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true"/>  <img src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&"/>
-
-
