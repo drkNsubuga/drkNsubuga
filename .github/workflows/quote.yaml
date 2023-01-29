@@ -24,15 +24,17 @@ jobs:
       run: |
         convert "${PICTURE_URL}" -fill white -gravity center -pointsize 24 -annotate +0+0 "${QUOTE}" -channel RGBA -blur 0x8 -fill black -colorize 50% quote.png
 
-    - name: Add quote-overlaid picture to README
+    - name: Add image quote to README
       run: |
-        echo "![inspirational](result.png)" >> README.md
-        echo "" >> README.md
+        sed -i '/<!-- Quote-Image-Start -->/,/<!-- Quote-Image-End -->/d' README.md
+        echo "<!-- Quote-Image-Start -->" >> README.md
+        echo "![inspirational](quote.png)" >> README.md
+        echo "<!-- Quote-Image-End -->" >> README.md
 
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
         git add README.md quote.png
-        git commit -m "Added new image quote to README"
+        git commit -m "Added new inspirational quote"
         git push origin main
