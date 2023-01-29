@@ -23,7 +23,7 @@ jobs:
         sed -i "/^<blockquote>/d" README.md
         sed -i "/^## Just for inspiration/a${QUOTE}" README.md
 
-     name: Commit and push changes if README changed
+    - name: Commit and push changes if README changed
       run: |-
         git diff
         git config --local user.email "github-actions@example.com"
