@@ -18,14 +18,16 @@ jobs:
       run: |
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
         
-    - name: Add quote to README
+    - name: Update quote in readme
       run: |
-        sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n${QUOTE}|" README.md
+        sed -i "/^<blockquote>/d" README.md
+        sed -i "/^## Just for inspiration/a${QUOTE}" README.md
 
-    - name: Commit and push changes
-      run: |
+     name: Commit and push changes if README changed
+      run: |-
+        git diff
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
         git add README.md
-        git commit -m "Added new quote to README"
+        git diff --quiet || (git add README.md && git commit -m "Added new quote to README")
         git push origin main
