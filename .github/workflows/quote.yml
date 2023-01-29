@@ -1,4 +1,4 @@
-name: readme-uote
+name: readme-quote
 
 on: push
 
@@ -19,7 +19,7 @@ jobs:
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].q")
         AUTHOR=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].a")
 
-   - name: Add quote and author to README
+    - name: Add quote and author to README
       run: |
         sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n> ${QUOTE} \n> - ${AUTHOR}\n|" README.md
 
