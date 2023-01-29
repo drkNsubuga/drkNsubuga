@@ -1,4 +1,4 @@
-name: readme-quote
+name: readme-uote
 
 on:
   schedule:
@@ -14,7 +14,8 @@ jobs:
 
     - name: Get an inspirational quote
       run: |
-        QUOTE=$(curl -s "https://inspirobot.me/api?generate=true" | jq -r ".data")
+        QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].q")
+        AUTHOR=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].a")
 
     - name: Get a picture
       run: |
@@ -22,7 +23,7 @@ jobs:
 
     - name: Overlay quote on picture
       run: |
-        convert "${PICTURE_URL}" -fill white -gravity center -pointsize 24 -annotate +0+0 "${QUOTE}" -channel RGBA -blur 0x8 -fill black -colorize 50% quote.png
+        convert "${PICTURE_URL}" -fill white -gravity center -pointsize 24 -annotate +0+0 "${QUOTE}\n\t~${AUTHOR}" -channel RGBA -blur 0x8 -fill black -colorize 50% quote.png
 
     - name: Add image quote to README
       run: |
