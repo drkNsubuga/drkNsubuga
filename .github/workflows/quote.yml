@@ -17,6 +17,7 @@ jobs:
     - name: Get an inspirational quote
       run: |
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
+        echo $QUOTE
         
     - name: Add quote to README
       run: |
