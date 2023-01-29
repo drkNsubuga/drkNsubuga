@@ -18,7 +18,7 @@ jobs:
       run: |
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
         
-    - name: Add quote and author to README
+    - name: Add quote to README
       run: |
         sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n${QUOTE}|" README.md
 
@@ -27,5 +27,5 @@ jobs:
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
         git add README.md
-        git commit -m "Added new inspirational quote to README"
+        git commit -m "Added new quote to README"
         git push origin main
