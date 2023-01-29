@@ -1,4 +1,4 @@
-name: Add Quote to README
+name: readme-quote
 
 on:
   schedule:
