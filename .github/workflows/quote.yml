@@ -1,8 +1,10 @@
 name: readme-uote
 
-on:
-  schedule:
-    - cron: '0 */12 * * *'
+on: push
+
+# on:
+#   schedule:
+#     - cron: '0 */12 * * *'
 
 jobs:
   add_quote:
