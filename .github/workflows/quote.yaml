@@ -1,0 +1,38 @@
+name: Add Quote to README
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  add_quote:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get an inspirational quote
+      run: |
+        QUOTE=$(curl -s "https://inspirobot.me/api?generate=true" | jq -r ".data")
+
+    - name: Get a picture
+      run: |
+        PICTURE_URL=$(curl -s "https://picsum.photos/200/300")
+
+    - name: Overlay quote on picture
+      run: |
+        convert "${PICTURE_URL}" -fill white -gravity center -pointsize 24 -annotate +0+0 "${QUOTE}" -channel RGBA -blur 0x8 -fill black -colorize 50% quote.png
+
+    - name: Add quote-overlaid picture to README
+      run: |
+        echo "![inspirational](result.png)" >> README.md
+        echo "" >> README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions@example.com"
+        git config --local user.name "GitHub Actions"
+        git add README.md quote.png
+        git commit -m "Added new image quote to README"
+        git push origin main
