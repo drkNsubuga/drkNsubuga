@@ -20,12 +20,13 @@ jobs:
         
     - name: Add quote to README
       run: |
-        sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n${QUOTE}|" README.md
+        sed -i "s|<\!-- Quote-Start -->|<\!-- Quote-End -->\n${QUOTE}|" README.md
 
-    - name: Commit and push changes
-      run: |
+     name: Commit and push changes if README changed
+      run: |-
+        git diff
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
         git add README.md
-        git commit -m "Added new quote to README"
+        git diff --quiet || (git add README.md && git commit -m "Added new quote to README")
         git push origin main
