@@ -21,8 +21,8 @@ jobs:
     - name: Add quote to README
       run: |
         sed -i "s|<\!-- Quote-Start -->|<\!-- Quote-End -->\n${QUOTE}|" README.md
-
-     name: Commit and push changes if README changed
+        
+    - name: Commit and push changes if README changed
       run: |-
         git diff
         git config --local user.email "github-actions@example.com"
