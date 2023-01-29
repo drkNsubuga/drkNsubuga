@@ -19,25 +19,14 @@ jobs:
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].q")
         AUTHOR=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].a")
 
-    - name: Get a picture
+   - name: Add quote and author to README
       run: |
-        PICTURE_URL=$(curl -s "https://picsum.photos/200/300")
-
-    - name: Overlay quote on picture
-      run: |
-        convert "${PICTURE_URL}" -fill white -gravity center -pointsize 24 -annotate +0+0 "${QUOTE}\n\t~${AUTHOR}" -channel RGBA -blur 0x8 -fill black -colorize 50% quote.png
-
-    - name: Add image quote to README
-      run: |
-        sed -i '/<!-- Quote-Image-Start -->/,/<!-- Quote-Image-End -->/d' README.md
-        echo "<!-- Quote-Image-Start -->" >> README.md
-        echo "![inspirational](quote.png)" >> README.md
-        echo "<!-- Quote-Image-End -->" >> README.md
+        sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n> ${QUOTE} \n> - ${AUTHOR}\n|" README.md
 
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
-        git add README.md quote.png
-        git commit -m "Added new inspirational quote"
+        git add README.md
+        git commit -m "Added new inspirational quote to README"
         git push origin main

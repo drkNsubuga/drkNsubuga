@@ -27,6 +27,6 @@
 ## Current Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true"/>  <img src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
-## For your inspiration
-<!-- Quote-Image-Start -->
-<!-- Quote-Image-End -->
+## Just for inspiration
+<!-- Quote-Start -->
+<!-- Quote-End -->
