@@ -16,12 +16,11 @@ jobs:
 
     - name: Get an inspirational quote
       run: |
-        QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].q")
-        AUTHOR=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].a")
-
+        QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
+        
     - name: Add quote and author to README
       run: |
-        sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n> ${QUOTE} \n> - ${AUTHOR}\n|" README.md
+        sed -i "s|<!-- Quote-Start -->|<!-- Quote-End -->\n${QUOTE}|" README.md
 
     - name: Commit and push changes
       run: |
