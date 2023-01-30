@@ -19,7 +19,7 @@ jobs:
         
     - name: Update quote in readme
       run: |
-        sed -i "/\n*<blockquote>/d" README.md
+        sed -i "/^<blockquote>/d" README.md
         sed -i "/^<\!-- #quote-start -->/a ${QUOTE}" README.md
 
     - name: Commit and push changes if README changed
