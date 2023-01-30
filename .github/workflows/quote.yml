@@ -22,18 +22,19 @@ jobs:
       #   sed -i "/^<blockquote>/d" README.md
       #   sed -i "/^<\!-- #quote-start -->/a\ ${QUOTE}" README.md
       #   - name: Modify README.md
-      uses: jaywcjlove/github-action-modify-file-content@main
+      #   
+      uses: jaywcjlove/github-action-modify-file-content@v1.4.3
       with:
         path: README.md
-        body: "$QUOTE"
+        body: "{{$QUOTE}}"
         openDelimiter: "<!-- #quote-start -->"
         closeDelimiter: "<!-- #quote-end -->" 
 
-    - name: Commit and push changes if README changed
-      run: |-
-        git diff
-        git config --local user.email "github-actions@example.com"
-        git config --local user.name "GitHub Actions"
-        git add README.md
-        git diff --quiet || (git add README.md && git commit -m "Added new quote to README")
-        git push origin main
+    # - name: Commit and push changes if README changed
+    #   run: |-
+    #     git diff
+    #     git config --local user.email "github-actions@example.com"
+    #     git config --local user.name "GitHub Actions"
+    #     git add README.md
+    #     git diff --quiet || (git add README.md && git commit -m "Added new quote to README")
+    #     git push origin main
