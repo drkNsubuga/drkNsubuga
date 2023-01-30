@@ -1,4 +1,3 @@
-
 # Hi, I'm ~Derrick~ Drk.
 <p>
 <a href="https://www.linkedin.com/in/nsubuga-derrick"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" width="90"/></a>
@@ -27,4 +26,5 @@
 ## Current Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true"/>  <img src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
-## Just for inspiration
+<!-- #quote-start -->
+<!-- #quote-end -->

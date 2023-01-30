@@ -1,10 +1,9 @@
 name: readme-quote
 
-on: push
-
-# on:
-#   schedule:
-#     - cron: '0 */12 * * *'
+on:
+  push:
+  schedule:
+    - cron: '0 */12 * * *'
 
 jobs:
   add_quote:
@@ -21,7 +20,7 @@ jobs:
     - name: Update quote in readme
       run: |
         sed -i "/^<blockquote>/d" README.md
-        sed -i "/^## Just for inspiration/a\n${QUOTE}" README.md
+        sed -i "/^<\!-- #quote-start -->/a ${QUOTE}" README.md
 
     - name: Commit and push changes if README changed
       run: |-
