@@ -16,9 +16,10 @@ jobs:
     - name: Get an inspirational quote
       run: |
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
-        
+
     - name: Update quote in readme
       run: |-
+        echo "${QUOTE}"
         sed -i "/^<blockquote>/d" README.md
         sed -i "/^<\!-- #quote-start -->/a\ ${QUOTE}" README.md
 
