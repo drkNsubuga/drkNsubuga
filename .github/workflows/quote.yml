@@ -26,7 +26,7 @@ jobs:
       uses: jaywcjlove/github-action-modify-file-content@v1.4.3
       with:
         path: README.md
-        body: QUOTE
+        body: ${QUOTE}
         openDelimiter: "<!-- #quote-start -->"
         closeDelimiter: "<!-- #quote-end -->" 
 
