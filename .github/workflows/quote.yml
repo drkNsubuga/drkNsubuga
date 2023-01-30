@@ -14,11 +14,28 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Update quote in readme
-      run: |-
+      run: |
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
-        echo "${QUOTE:=>Silence is Golden}"
+        echo "$QUOTE"
+
+    - name: Update quote in readme
+      run: |-
+        echo "${QUOTE:=Silence is Golden}"
         sed -i "/^<blockquote>/d" README.md
         sed -i "/^<\!-- #quote-start -->/a\ $QUOTE" README.md
+
+    - name: Check if README has been updated
+      run: |
+        NEW_QUOTE="${QUOTE}"
+        UPDATED_README=$(cat README.md | grep -E "^<!-- #quote-start -->")
+        if [ "$NEW_QUOTE" != "$UPDATED_README" ]; then
+          echo "ERROR: README has not been updated with the new quote."
+          exit 1
+        fi
+        echo "README has been successfully updated with the new quote."
+
+    - name: Commit and push changes if README changed
+      run: |-
         git diff
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
