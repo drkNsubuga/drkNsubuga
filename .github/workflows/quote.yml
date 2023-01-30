@@ -16,14 +16,9 @@ jobs:
     - name: Update quote in readme
       run: |-
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
-    # - name: Update quote in readme
-    #   run: |-
         echo "${QUOTE:=>Silence is Golden}"
         sed -i "/^<blockquote>/d" README.md
         sed -i "/^<\!-- #quote-start -->/a\ $QUOTE" README.md
-
-    # - name: Commit and push changes if README changed
-    #   run: |-
         git diff
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
