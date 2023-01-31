@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Goodness is the only investment that never fails.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
