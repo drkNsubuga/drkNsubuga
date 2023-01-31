@@ -37,6 +37,5 @@ jobs:
         git diff
         git config --local user.email "github-actions@example.com"
         git config --local user.name "GitHub Actions"
-        git add README.md
         git diff --quiet || (git add README.md && git commit -m "Added new quote to README")
         git push origin main
