@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-> Silence is Golden
+<blockquote>&ldquo;Goodness is the only investment that never fails.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 <!-- #quote-end -->
