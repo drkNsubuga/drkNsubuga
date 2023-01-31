@@ -28,4 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
+> Silence is Golden
 <!-- #quote-end -->
