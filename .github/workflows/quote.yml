@@ -13,26 +13,24 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Update quote in readme
+    - name: Get an inspirational quote
       run: |
         QUOTE=$(curl -s "https://zenquotes.io/api/random" |jq -r ".[].h")
         echo "$QUOTE"
 
     - name: Update quote in readme
       run: |-
-        echo "${QUOTE:=Silence is Golden}"
-        sed -i "/^<blockquote>/d" README.md
-        sed -i "/^<\!-- #quote-start -->/a\ $QUOTE" README.md
-
-    - name: Check if README has been updated
-      run: |
-        NEW_QUOTE="${QUOTE}"
-        UPDATED_README=$(cat README.md | grep -E "^<!-- #quote-start -->")
-        if [ "$NEW_QUOTE" != "$UPDATED_README" ]; then
-          echo "ERROR: README has not been updated with the new quote."
-          exit 1
-        fi
-        echo "README has been successfully updated with the new quote."
+        # 
+        echo "${QUOTE:=> Silence is Golden}"
+        # Disable interpreting exclamation mark! as a command
+        histchars=
+        # Set delimiters to variables
+        start_delimiter="<!-- #quote-start -->"
+        end_delimiter="<!-- #quote-end -->"
+        # Remove previous quote with its delimter
+        sed -i "/$start_delimiter/,/$end_delimiter/d" README.md
+        # Add the new quote to the README file
+        printf "$start_delimiter\n$QUOTE\n$end_delimiter\n" >> README.md
 
     - name: Commit and push changes if README changed
       run: |-
