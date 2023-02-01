@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 <!-- #quote-end -->
