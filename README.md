@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Life comes at us in waves. We can't predict or control those waves, but we can learn to surf.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 <!-- #quote-end -->
