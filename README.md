@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Whenever you find yourself on the side of the majority, it is time to reform.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;The most effective way to do it, is to do it.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 <!-- #quote-end -->
