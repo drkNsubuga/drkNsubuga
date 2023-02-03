@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;The most effective way to do it, is to do it.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;There is nothing in the world so irresistibly contagious as laughter and good humor.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <!-- #quote-end -->
