@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;A wise man will be master of his mind, a fool will be its slave.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;In the end, it's not the years in your life that count. It's the life in your years.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
 <!-- #quote-end -->
