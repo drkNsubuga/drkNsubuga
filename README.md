@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;There is nothing in the world so irresistibly contagious as laughter and good humor.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &rdquo; &mdash; <footer>Jack London</footer></blockquote>
 <!-- #quote-end -->
