@@ -28,5 +28,5 @@
 
 ## One is my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;In the end, it's not the years in your life that count. It's the life in your years.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+<blockquote>&ldquo;The older you get, the better you get. Unless you're a banana.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 <!-- #quote-end -->
