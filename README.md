@@ -1,4 +1,4 @@
-# Hi, I'm ~Derrick~ Drk.
+# Hi, I'm Derrick!
 <p>
 <a href="https://www.linkedin.com/in/nsubuga-derrick"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" width="90"/></a>
  <a href="https://www.hackerrank.com/profile/drkNsubuga" target="_blank"><img src=https://img.shields.io/badge/hackerank-068932?style=for-the-badge&logo=hackerrank&logoColor=white alt="LinkedIn" width="90"/></a> <a href="https://stackoverflow.com/users/6547542/drk" target="_blank"><img src="https://img.shields.io/stackexchange/stackoverflow/r/6547542?color=orange&label=STACKOVERLOW&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400" width="130" alt="Stackover reputation"/></a> 
@@ -24,9 +24,9 @@
 
 
 ## My Current Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true"/>  <img src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true"/>  <img height="200eem" src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
-## One is my favourite quotes
+## One of my favourite quotes
 <!-- #quote-start -->
 <blockquote>&ldquo;You become stronger with every problem you face and every obstacle you overcome.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <!-- #quote-end -->
