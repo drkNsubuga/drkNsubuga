@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Arise, slay thy enemies, enjoy a prosperous kingdom.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+<blockquote>&ldquo;It is useless to meet revenge with revenge; it will heal nothing.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!-- #quote-end -->
