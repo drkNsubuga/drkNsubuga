@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Arise, slay thy enemies, enjoy a prosperous kingdom.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 <!-- #quote-end -->
