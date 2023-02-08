@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;It is useless to meet revenge with revenge; it will heal nothing.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 <!-- #quote-end -->
