@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;An ounce of performance is worth pounds of promises.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 <!-- #quote-end -->
