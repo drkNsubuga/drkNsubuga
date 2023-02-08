@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;An ounce of performance is worth pounds of promises.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;You change the world by being yourself.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 <!-- #quote-end -->
