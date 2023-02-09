@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;I am who I am today because of the choices I made yesterday.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The opportunity of defeating the enemy is provided by the enemy himself.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <!-- #quote-end -->
