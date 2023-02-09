@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Human beings believe just as they breathe - in order to survive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;I am who I am today because of the choices I made yesterday.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
