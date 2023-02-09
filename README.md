@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Concentrated power has always been the enemy of liberty.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+<blockquote>&ldquo;In the midst of movement and chaos, keep stillness inside of you.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <!-- #quote-end -->
