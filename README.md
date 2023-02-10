@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;None are more hopelessly enslaved than those who falsely believe they are free.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 <!-- #quote-end -->
