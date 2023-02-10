@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+<blockquote>&ldquo;We run to win, not just to be in the race.  &rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 <!-- #quote-end -->
