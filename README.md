@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;The opportunity of defeating the enemy is provided by the enemy himself.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
+<blockquote>&ldquo;Bloom where you are planted!&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 <!-- #quote-end -->
