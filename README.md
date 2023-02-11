@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't seek, don't search, don't ask, don't knock, don't demand - relax.&rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;What you do today can improve all your tomorrows.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 <!-- #quote-end -->
