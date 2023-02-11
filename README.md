@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;What you do today can improve all your tomorrows.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;The future depends on what you do today. &rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
 <!-- #quote-end -->
