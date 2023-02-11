@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;We run to win, not just to be in the race.  &rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 <!-- #quote-end -->
