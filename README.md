@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;When you are tough on yourself, life is going to be infinitely easier on you.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Be not afraid of growing slowly, be afraid only of standing still. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 <!-- #quote-end -->
