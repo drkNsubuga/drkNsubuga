@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Adventure is not outside man; it is within.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;One must be deeply aware of the impermanence of the world.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 <!-- #quote-end -->
