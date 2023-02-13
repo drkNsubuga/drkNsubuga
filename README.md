@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Love is the expression of one's values.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Adventure is not outside man; it is within.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 <!-- #quote-end -->
