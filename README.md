@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;When one door closes another door opens. &rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
+<blockquote>&ldquo;Change happens when the pain of holding on becomes greater than the fear of letting go.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 <!-- #quote-end -->
