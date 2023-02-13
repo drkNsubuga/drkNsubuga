@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;One must be deeply aware of the impermanence of the world.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+<blockquote>&ldquo;When one door closes another door opens. &rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>
 <!-- #quote-end -->
