@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Change happens when the pain of holding on becomes greater than the fear of letting go.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;We've got to live, no matter how many skies have fallen.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 <!-- #quote-end -->
