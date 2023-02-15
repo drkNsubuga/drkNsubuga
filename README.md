@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;If you need inspiration, don't do it.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <!-- #quote-end -->
