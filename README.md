@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Character is destiny.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
+<blockquote>&ldquo;Every second you have on this planet is very precious and it's your responsibility that you're happy.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 <!-- #quote-end -->
