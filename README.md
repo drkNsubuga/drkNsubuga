@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;One of the advantages of being disorganized is that one is always having surprising discoveries.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>
+<blockquote>&ldquo;Character is destiny.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 <!-- #quote-end -->
