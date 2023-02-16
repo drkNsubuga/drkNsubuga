@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is a process. We are a process. The universe is a process.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;What are we doing here, that is the question.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 <!-- #quote-end -->
