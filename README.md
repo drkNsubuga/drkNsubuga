@@ -28,8 +28,7 @@
 
 ## One of my favourite quotes
 
-<!-- #quote-start -->
-<blockquote>&ldquo;Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
-<!-- #quote-end -->
 <br/>
-<p align="right"><a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20by-Zen%20Quotes%20API-blue"></a></p>
+<p align="right"><a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20by-Zen%20Quotes%20API-blue"></a></p><!-- #quote-start -->
+<blockquote>&ldquo;Real growth comes through intense, difficult, and challenging situations.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<!-- #quote-end -->
