@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is 10% what happens to you and 90% how you react to it. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
+> Silence is Golden
 <!-- #quote-end -->
