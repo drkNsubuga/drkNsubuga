@@ -28,5 +28,5 @@
 
 ## One of my favourite quotes
 <!-- #quote-start -->
-<blockquote>&ldquo;What are we doing here, that is the question.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+<blockquote>&ldquo;Life is 10% what happens to you and 90% how you react to it. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 <!-- #quote-end -->
