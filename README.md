@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The great use of life is to spend it for something that will outlast it.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;But better die than live mechanically a life that is a repetition of repetitions.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 <!-- #quote-end -->
