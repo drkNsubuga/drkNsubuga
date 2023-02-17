@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Get mad, then get over it.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;Don't be pushed by your problems; be led by your dreams.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
