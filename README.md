@@ -29,6 +29,6 @@
 ## One of my favourite quotes
 
 <br/>
-<p align="right"><a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20by-Zen%20Quotes%20API-blue"></a></p><!-- #quote-start -->
-<blockquote>&ldquo;Real growth comes through intense, difficult, and challenging situations.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<!-- #quote-start -->
+<blockquote>&ldquo;The great use of life is to spend it for something that will outlast it.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <!-- #quote-end -->
