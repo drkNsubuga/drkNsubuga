@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't be pushed by your problems; be led by your dreams.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Dreams provide nourishment for the soul, just as a meal does for the body.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 <!-- #quote-end -->
