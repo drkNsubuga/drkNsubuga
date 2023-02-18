@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Dreams provide nourishment for the soul, just as a meal does for the body.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+<blockquote>&ldquo;Life is a traveling to the edge of knowledge, then a leap taken.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 <!-- #quote-end -->
