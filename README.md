@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;A wise person should have money in their head, but not in their heart.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;Nothing endures but change.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 <!-- #quote-end -->
