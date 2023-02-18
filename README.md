@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is a traveling to the edge of knowledge, then a leap taken.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;A wise person should have money in their head, but not in their heart.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 <!-- #quote-end -->
