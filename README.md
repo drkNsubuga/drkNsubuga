@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+<blockquote>&ldquo;Success is within the reach of just about everyone.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 <!-- #quote-end -->
