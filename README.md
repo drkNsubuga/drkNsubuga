@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Success is within the reach of just about everyone.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;If you want work well done, select a busy man; the other kind has no time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 <!-- #quote-end -->
