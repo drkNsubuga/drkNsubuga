@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;If you want work well done, select a busy man; the other kind has no time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;The least deviation from truth will be multiplied later.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 <!-- #quote-end -->
