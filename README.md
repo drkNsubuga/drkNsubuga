@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Those who cannot change their minds cannot change anything.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;The only real mistake is the one from which we learn nothing. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 <!-- #quote-end -->
