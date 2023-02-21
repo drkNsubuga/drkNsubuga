@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The only real mistake is the one from which we learn nothing. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <!-- #quote-end -->
