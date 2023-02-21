@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;The soul should always stand ajar, ready to welcome the ecstatic experience.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 <!-- #quote-end -->
