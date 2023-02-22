@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;For changes to be of any true value, they've got to be lasting and consistent.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;You have to keep breaking your heart until it opens.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 <!-- #quote-end -->
