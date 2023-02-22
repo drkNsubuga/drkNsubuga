@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;You have to keep breaking your heart until it opens.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;There is no path to Love. Love is the path.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 <!-- #quote-end -->
