@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Great acts are made up of small deeds.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
 <!-- #quote-end -->
