@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The essence of the Way is detachment.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
+<blockquote>&ldquo;Great acts are made up of small deeds.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 <!-- #quote-end -->
