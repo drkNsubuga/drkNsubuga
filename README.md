@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Do not believe that you will reach your destination without leaving the shore. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;The essence of the Way is detachment.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
 <!-- #quote-end -->
