@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Try to be a rainbow in someone's cloud.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
+<blockquote>&ldquo;We must embrace pain and burn it as fuel for our journey.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
 <!-- #quote-end -->
