@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;We must embrace pain and burn it as fuel for our journey.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote>
+<blockquote>&ldquo;You'll get more from being a peacemaker than a warrior.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <!-- #quote-end -->
