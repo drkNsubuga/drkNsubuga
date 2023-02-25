@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Nothing has more strength than dire necessity.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Why fit in when you were born to stand out?&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 <!-- #quote-end -->
