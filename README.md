@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Why fit in when you were born to stand out?&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;I am always doing what I cannot do yet, in order to learn how to do it.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 <!-- #quote-end -->
