@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Winners never quit and quitters never win.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Nothing has more strength than dire necessity.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 <!-- #quote-end -->
