@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;You'll get more from being a peacemaker than a warrior.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;Winners never quit and quitters never win.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 <!-- #quote-end -->
