@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Better to die fighting for freedom than be a prisoner all the days of your life.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
+<blockquote>&ldquo;Great things are not accomplished by those who yield to trends and fads and popular opinion.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
 <!-- #quote-end -->
