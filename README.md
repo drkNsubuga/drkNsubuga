@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Great things are not accomplished by those who yield to trends and fads and popular opinion.&rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 <!-- #quote-end -->
