@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;Public opinion is the worst of all opinions.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 <!-- #quote-end -->
