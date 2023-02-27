@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't be pushed by your problems; be led by your dreams.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The art of being happy lies in the power of extracting happiness from common things.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 <!-- #quote-end -->
