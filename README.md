@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The busy man is never wise and the wise man is never busy.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+<blockquote>&ldquo;If you do not get the chills when you set your goal you're not setting big enough goals.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 <!-- #quote-end -->
