@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;The single biggest problem in communication is the illusion that it has taken place.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 <!-- #quote-end -->
