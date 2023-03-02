@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+<blockquote>&ldquo;Intelligence is the ability to adapt to change.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 <!-- #quote-end -->
