@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Be strong. Be confident. Be the star of your own life.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 <!-- #quote-end -->
