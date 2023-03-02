@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Ripe fruit falls by itself - but it doesn't fall in your mouth. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Be strong. Be confident. Be the star of your own life.&rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 <!-- #quote-end -->
