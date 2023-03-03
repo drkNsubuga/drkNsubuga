@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Those who know, do. Those that understand, teach.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;You can calculate the worth of a man by the number of his enemies.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 <!-- #quote-end -->
