@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Intelligence is the ability to adapt to change.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+<blockquote>&ldquo;Those who know, do. Those that understand, teach.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 <!-- #quote-end -->
