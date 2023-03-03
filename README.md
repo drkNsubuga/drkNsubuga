@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;You can calculate the worth of a man by the number of his enemies.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
+<blockquote>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 <!-- #quote-end -->
