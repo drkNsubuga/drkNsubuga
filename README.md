@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The more I want to get something done, the less I call it work.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 <!-- #quote-end -->
