@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;The more I want to get something done, the less I call it work.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 <!-- #quote-end -->
