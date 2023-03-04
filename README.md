@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Words without actions are the assassins of idealism.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 <!-- #quote-end -->
