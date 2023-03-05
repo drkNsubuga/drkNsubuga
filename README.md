@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Progress is limited by your ability to change your mind.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 <!-- #quote-end -->
