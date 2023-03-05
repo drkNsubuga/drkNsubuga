@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Words without actions are the assassins of idealism.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+<blockquote>&ldquo;If you want more luck, take more chances.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <!-- #quote-end -->
