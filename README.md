@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Progress is limited by your ability to change your mind.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;The finish line is just the beginning of a whole new race.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
