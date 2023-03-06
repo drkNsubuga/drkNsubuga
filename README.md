@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Smile, breathe and go slowly.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 <!-- #quote-end -->
