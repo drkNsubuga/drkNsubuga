@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;You are the only real obstacle in your path to a fulfilling life.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <!-- #quote-end -->
