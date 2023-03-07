@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Do not allow your inner doubts to keep you from achieving what you can do.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Go for it now. The future is promised to no one.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 <!-- #quote-end -->
