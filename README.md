@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Go for it now. The future is promised to no one.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+<blockquote>&ldquo;What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 <!-- #quote-end -->
