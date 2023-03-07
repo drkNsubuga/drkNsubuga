@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+<blockquote>&ldquo;Do not allow your inner doubts to keep you from achieving what you can do.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 <!-- #quote-end -->
