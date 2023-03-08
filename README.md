@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
+<blockquote>&ldquo;Success is going from failure to failure without losing your enthusiasm&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 <!-- #quote-end -->
