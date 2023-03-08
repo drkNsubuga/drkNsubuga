@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The only normal people are the ones you don't know very well.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;There can be no deep disappointment where there is not deep love.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 <!-- #quote-end -->
