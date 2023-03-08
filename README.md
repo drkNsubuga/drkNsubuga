@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Success is going from failure to failure without losing your enthusiasm&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;The only normal people are the ones you don't know very well.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 <!-- #quote-end -->
