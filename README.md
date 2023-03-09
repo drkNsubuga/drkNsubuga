@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;You are always your own best guru, your own best teacher, the answers are always inside you.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&rdquo; &mdash; <footer>Carl Bard</footer></blockquote>
 <!-- #quote-end -->
