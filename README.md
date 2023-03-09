@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&rdquo; &mdash; <footer>Carl Bard</footer></blockquote>
+<blockquote>&ldquo;What would life be if we had no courage to attempt anything? &rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 <!-- #quote-end -->
