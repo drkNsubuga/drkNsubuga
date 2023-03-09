@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;He who cannot be a good follower cannot be a good leader.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;You are always your own best guru, your own best teacher, the answers are always inside you.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
 <!-- #quote-end -->
