@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;If you want something then you lose everything. If you don't want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+<blockquote>&ldquo;The difference between winning and losing is most often not quitting.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
 <!-- #quote-end -->
