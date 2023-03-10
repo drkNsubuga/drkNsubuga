@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Never waste a minute of your precious life thinking about people you don't like.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;If you want something then you lose everything. If you don't want anything then you already have everything.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
 <!-- #quote-end -->
