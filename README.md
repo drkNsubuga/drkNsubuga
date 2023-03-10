@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;Unless you're ashamed of yourself now and then, you're not honest.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;Never waste a minute of your precious life thinking about people you don't like.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <!-- #quote-end -->
