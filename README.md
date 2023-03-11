@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;No man is free who is not master of himself.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;There is no self-discovery without pain and loss.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
 <!-- #quote-end -->
