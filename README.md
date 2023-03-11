@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;The difference between winning and losing is most often not quitting.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+<blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 <!-- #quote-end -->
