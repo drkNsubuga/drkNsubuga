@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;To do great work one must be very idle as well as very industrious.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 <!-- #quote-end -->
