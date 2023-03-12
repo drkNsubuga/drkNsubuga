@@ -33,5 +33,5 @@
 <blockquote>&ldquo;We have more possibilities available in each moment than we realize.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 <!-- #quote-end -->
 <!-- #attribution-start -->
-<a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quotes%20provided%20by-ZenQuotes%20API-lightgrey"/></a>
+<a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
