@@ -30,5 +30,5 @@
 
 <br/>
 <!-- #quote-start -->
-<blockquote>&ldquo;There is no self-discovery without pain and loss.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
+<blockquote>&ldquo;Truth is like the sun. You can shut it out for a time, but it ain't going away.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 <!-- #quote-end -->
