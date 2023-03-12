@@ -29,9 +29,9 @@
 ## One of my favourite quotes
 
 <br/>
-<!-- #quote-start -->
-<blockquote>&ldquo;We have more possibilities available in each moment than we realize.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
-<!-- #quote-end -->
 <!-- #attribution-start -->
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
+<!-- #quote-start -->
+<blockquote>&ldquo;Once you learn to quit, it becomes a habit.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<!-- #quote-end -->
