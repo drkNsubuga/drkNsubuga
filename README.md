@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You only live once, but if you do it right, once is enough.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;Your goals are the road maps that guide you and show you what is possible for your life.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <!-- #quote-end -->
