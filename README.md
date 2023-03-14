@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Your goals are the road maps that guide you and show you what is possible for your life.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;If you can't, you must. If you must, you can.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 <!-- #quote-end -->
