@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;The glow of one warm thought is to me worth more than money.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 <!-- #quote-end -->
