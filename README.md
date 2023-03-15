@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The fewer the words, the better the prayer.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;I want the fishing rod, not the fish.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 <!-- #quote-end -->
