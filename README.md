@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Stop comparing yourself to others and focus on your own improvement.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Repetition does not transform a lie into a truth.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 <!-- #quote-end -->
