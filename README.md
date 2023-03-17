@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Repetition does not transform a lie into a truth.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Love doesn't need reason. It speaks from the irrational wisdom of the heart.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <!-- #quote-end -->
