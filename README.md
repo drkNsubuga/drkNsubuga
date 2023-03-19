@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is a series of choices and all we can do is make them.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;Don't bother people for help without first trying to solve the problem yourself.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <!-- #quote-end -->
