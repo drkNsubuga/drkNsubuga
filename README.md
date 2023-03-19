@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;Truth is such a rare thing, it is delighted to tell it.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 <!-- #quote-end -->
