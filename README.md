@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;It is far easier to start something than it is to finish it.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 <!-- #quote-end -->
