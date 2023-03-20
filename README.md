@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 <!-- #quote-end -->
