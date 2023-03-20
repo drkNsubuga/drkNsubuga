@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;It is far easier to start something than it is to finish it.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
+<blockquote>&ldquo;Associate with people who are likely to improve you.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 <!-- #quote-end -->
