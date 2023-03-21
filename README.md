@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;Never regret your past. Rather, embrace it as the teacher that it is.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 <!-- #quote-end -->
