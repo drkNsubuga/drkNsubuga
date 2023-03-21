@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Never regret your past. Rather, embrace it as the teacher that it is.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+<blockquote>&ldquo;It's not how much we give but how much love we put into giving.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 <!-- #quote-end -->
