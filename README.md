@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;The greatest weariness comes from work not done.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 <!-- #quote-end -->
