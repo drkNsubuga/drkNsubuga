@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;The soul is neither born, and nor does it die.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 <!-- #quote-end -->
