@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Turn your face to the sun, as flowers know how to do.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;To the world you may be one person; but to one person you may be the world.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 <!-- #quote-end -->
