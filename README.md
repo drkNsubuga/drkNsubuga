@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Dreams have only one owner at a time. That's why dreamers are lonely.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;Turn your face to the sun, as flowers know how to do.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 <!-- #quote-end -->
