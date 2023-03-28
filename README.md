@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Every second you have on this planet is very precious and it's your responsibility that you're happy.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;In the practice of tolerance, one's enemy is the best teacher.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 <!-- #quote-end -->
