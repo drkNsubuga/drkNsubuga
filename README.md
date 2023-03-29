@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The more perfect a person is on the outside, the more demons they have on the inside.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+<blockquote>&ldquo;Expect the best of yourself, and then do what is necessary to make it a reality.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 <!-- #quote-end -->
