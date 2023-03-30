@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Obstacles don't block the path, they are the path.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 <!-- #quote-end -->
