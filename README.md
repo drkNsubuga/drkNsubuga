@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;What do we live for, if it is not to make life less difficult for each other?&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+<blockquote>&ldquo;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 <!-- #quote-end -->
