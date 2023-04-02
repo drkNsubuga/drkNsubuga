@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 <!-- #quote-end -->
