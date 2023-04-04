@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Trust, like the soul, never returns once it is gone.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 <!-- #quote-end -->
