@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Debt is the slavery of the free.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 <!-- #quote-end -->
