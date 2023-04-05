@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If light is in your heart, you will find your way home.  &rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;Debt is the slavery of the free.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 <!-- #quote-end -->
