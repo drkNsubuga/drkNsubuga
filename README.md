@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Luck is what happens when preparation meets opportunity.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 <!-- #quote-end -->
