@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If you want others to be happy, practice compassion. If you want to be happy, practice compassion.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Most people achieved their greatest success one step beyond what looked like their greatest failure.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <!-- #quote-end -->
