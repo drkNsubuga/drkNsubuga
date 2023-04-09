@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You will have bad times, but they will always wake you up to the stuff you weren't paying attention to.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+<blockquote>&ldquo;The enemy is a very good teacher.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 <!-- #quote-end -->
