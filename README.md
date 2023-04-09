@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The enemy is a very good teacher.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <!-- #quote-end -->
