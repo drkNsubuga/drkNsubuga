@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Happiness is the meaning and the purpose of life, the whole aim and end of human existence.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 <!-- #quote-end -->
