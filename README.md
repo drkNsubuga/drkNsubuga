@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Only the hand that erases can write the true thing.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
+<blockquote>&ldquo;Everything that irritates us about others.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 <!-- #quote-end -->
