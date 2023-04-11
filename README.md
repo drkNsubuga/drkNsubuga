@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life should be touched, not strangled.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 <!-- #quote-end -->
