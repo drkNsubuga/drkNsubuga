@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Deliberately seek the company of people who influence you to think and act on building the life you desire.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;Don't let making a living prevent you from making a life.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 <!-- #quote-end -->
