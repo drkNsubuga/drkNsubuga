@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;People rarely succeed unless they have fun in what they are doing.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+<blockquote>&ldquo;Trust is the foundation of great leadership.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 <!-- #quote-end -->
