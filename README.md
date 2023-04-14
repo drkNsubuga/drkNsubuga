@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;It is impossible for a man to learn what he thinks he already knows.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;There is only one thing that makes a dream impossible to achieve: the fear of failure.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 <!-- #quote-end -->
