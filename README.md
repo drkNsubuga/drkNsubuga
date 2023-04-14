@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Listening well is as powerful as talking well, and is also as essential to true conversation.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Wheresoever you go, go with all your heart.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 <!-- #quote-end -->
