@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;But better die than live mechanically a life that is a repetition of repetitions.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
+<blockquote>&ldquo;Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 <!-- #quote-end -->
