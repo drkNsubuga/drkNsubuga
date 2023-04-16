@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Only by acceptance of the past, can you alter it.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;A tiger doesn't lose sleep over the opinion of sheep.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
 <!-- #quote-end -->
