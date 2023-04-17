@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The ladder of success is best climbed by stepping on the rungs of opportunity.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Heal the past, live the present, dream the future.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 <!-- #quote-end -->
