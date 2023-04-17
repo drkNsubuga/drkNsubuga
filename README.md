@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;A tiger doesn't lose sleep over the opinion of sheep.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
+<blockquote>&ldquo;Is it really possible to tell someone else what one feels?&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
 <!-- #quote-end -->
