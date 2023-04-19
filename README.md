@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;Believe nothing you hear, and only one half that you see.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 <!-- #quote-end -->
