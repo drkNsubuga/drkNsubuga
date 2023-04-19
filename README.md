@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Believe nothing you hear, and only one half that you see.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+<blockquote>&ldquo;Whenever you find yourself on the side of the majority, it is time to reform.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 <!-- #quote-end -->
