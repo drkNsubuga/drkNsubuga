@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Over time, loneliness gets inside you and doesn't go away.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
 <!-- #quote-end -->
