@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Do Something. If it works, do more of it. If it doesn't, do something else.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
+<blockquote>&ldquo;We are always complaining that our days are few, and acting as though there would be no end of them.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
 <!-- #quote-end -->
