@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;We are always complaining that our days are few, and acting as though there would be no end of them.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;You can never get enough of what you don't need to make you happy.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 <!-- #quote-end -->
