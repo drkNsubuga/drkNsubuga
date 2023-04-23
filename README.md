@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The road to success is always under construction..&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;It's wise to tell the truth. It's even wiser to tell it kindly.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
