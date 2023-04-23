@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You can never get enough of what you don't need to make you happy.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 <!-- #quote-end -->
