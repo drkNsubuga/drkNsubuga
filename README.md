@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The greatest of all mistakes is to do nothing because you think you can only do a little.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;True friendship ought never to conceal what it thinks. &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
 <!-- #quote-end -->
