@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The harder you work, the harder it is to surrender.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 <!-- #quote-end -->
