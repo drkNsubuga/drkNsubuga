@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Every strike brings me closer to the next home run. &rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
+<blockquote>&ldquo;The harder you work, the harder it is to surrender.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
 <!-- #quote-end -->
