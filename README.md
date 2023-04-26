@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The quicker you let go of old cheese, the sooner you find new cheese.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;Don't let the silly little dramas of each day get you down. For you are here to do great things.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 <!-- #quote-end -->
