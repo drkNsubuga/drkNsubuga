@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
+<blockquote>&ldquo;The more acquaintances you have, the less you know them.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 <!-- #quote-end -->
