@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;In the practice of tolerance, one's enemy is the best teacher.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+<blockquote>&ldquo;Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 <!-- #quote-end -->
