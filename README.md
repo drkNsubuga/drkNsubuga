@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The only person you should try to be better than is the person you were yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Life's too mysterious to take too serious.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 <!-- #quote-end -->
