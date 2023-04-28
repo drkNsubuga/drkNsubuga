@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life's too mysterious to take too serious.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. &rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
 <!-- #quote-end -->
