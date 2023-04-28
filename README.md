@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;We are all different. Don't judge, understand instead.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;The only person you should try to be better than is the person you were yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <!-- #quote-end -->
