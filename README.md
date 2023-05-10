@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If you can see it in your mind, you can hold it in your mind.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
 <!-- #quote-end -->
