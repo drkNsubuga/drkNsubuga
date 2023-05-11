@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The world makes way for the man who knows where he is going.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;Changing minds is harder than finding people who already agree.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>
 <!-- #quote-end -->
