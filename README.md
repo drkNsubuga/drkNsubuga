@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Intelligent men are cruel. Stupid men are monstrously cruel.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;The friendship that can cease has never been real. &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
 <!-- #quote-end -->
