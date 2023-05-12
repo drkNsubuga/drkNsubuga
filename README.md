@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
+<blockquote>&ldquo;Learning is a gift, even when pain is your teacher.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 <!-- #quote-end -->
