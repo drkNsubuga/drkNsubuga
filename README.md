@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Learning is a gift, even when pain is your teacher.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;Take away love and our earth is a tomb.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote>
 <!-- #quote-end -->
