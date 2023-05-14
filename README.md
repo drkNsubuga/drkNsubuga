@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You are not the drop in the ocean, but the ocean in the drop.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;Looking after my health today gives me a better hope for tomorrow. &rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 <!-- #quote-end -->
