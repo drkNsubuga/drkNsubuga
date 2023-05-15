@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Do it with passion, or not at all.&rdquo; &mdash; <footer>Rosa Nouchette Carey</footer></blockquote>
+<blockquote>&ldquo;Some of us learn from other people's mistakes and the rest of us have to be other people.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <!-- #quote-end -->
