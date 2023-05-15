@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Anyone who has ever made anything of importance was disciplined.&rdquo; &mdash; <footer>Andrew Hendrixson</footer></blockquote>
+<blockquote>&ldquo;Everyone wants to go to Heaven, but no one wants to die.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 <!-- #quote-end -->
