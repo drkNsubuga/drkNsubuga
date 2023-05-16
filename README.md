@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Once you learn to quit, it becomes a habit.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;The worst part of success is trying to find someone who is happy for you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
 <!-- #quote-end -->
