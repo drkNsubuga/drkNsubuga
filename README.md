@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;He who fails to plan, plans to fail.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;May you live all the days of your life.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 <!-- #quote-end -->
