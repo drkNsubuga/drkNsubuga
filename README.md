@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If what you're doing is not your passion, you have nothing to lose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Death is not an ending. It is a transformation.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
 <!-- #quote-end -->
