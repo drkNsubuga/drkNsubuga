@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Death is not an ending. It is a transformation.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;If we did all the things we are capable of, we would literally astound ourselves.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 <!-- #quote-end -->
