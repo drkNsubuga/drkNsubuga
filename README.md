@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You are the average of the five people you spend most time with.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;We have a duty to maintain the light of consciousness to make sure it continues into the future.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <!-- #quote-end -->
