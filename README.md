@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Success is about creating value.&rdquo; &mdash; <footer>Candice Carpenter</footer></blockquote>
+<blockquote>&ldquo;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 <!-- #quote-end -->
