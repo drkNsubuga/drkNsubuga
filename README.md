@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Today will never happen again. Don't waste it with a false start or no start at all.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 <!-- #quote-end -->
