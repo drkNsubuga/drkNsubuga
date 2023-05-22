@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Small men think they are small; great men never know they are great. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; &mdash; <footer>Plato</footer></blockquote>
 <!-- #quote-end -->
