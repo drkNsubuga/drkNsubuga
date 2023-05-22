@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If I can stop one heart from breaking, I shall not live in vain.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+<blockquote>&ldquo;Small men think they are small; great men never know they are great. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 <!-- #quote-end -->
