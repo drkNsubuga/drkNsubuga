@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't be afraid to go slowly. Be afraid of stopping.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <!-- #quote-end -->
