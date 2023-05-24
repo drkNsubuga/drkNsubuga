@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Re-examine all that you have been told... dismiss that which insults your soul.&rdquo; &mdash; <footer>Walt Whitman</footer></blockquote>
+<blockquote>&ldquo;A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 <!-- #quote-end -->
