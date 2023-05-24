@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You can discover what your enemy fears most by observing the means he uses to frighten you.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;All we have to decide is what to do with the time that is given to us.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!-- #quote-end -->
