@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Whatever your heart clings to and confides in, that is really your God.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <!-- #quote-end -->
