@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
 <!-- #quote-end -->
