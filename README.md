@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Today you are you, that is truer than true. There is no one alive who is you-er than you.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;The mind is the limit.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <!-- #quote-end -->
