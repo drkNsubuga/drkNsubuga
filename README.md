@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You're never too old for anything.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;Today you are you, that is truer than true. There is no one alive who is you-er than you.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
 <!-- #quote-end -->
