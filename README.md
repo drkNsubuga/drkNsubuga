@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Your dream has to be bigger than your fear.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;If you've never eaten while crying you don t know what life tastes like.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 <!-- #quote-end -->
