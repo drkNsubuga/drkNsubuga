@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Be - don't try to become &rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;It is literally true that you can succeed best and quickest by helping others succeed.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 <!-- #quote-end -->
