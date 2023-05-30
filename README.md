@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Thought is so cunning, so clever, that it distorts everything for its own convenience.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
+<blockquote>&ldquo;Deeds will not be less valiant because they are upraised.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!-- #quote-end -->
