@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Because a thing seems difficult for you, do not think it impossible.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 <!-- #quote-end -->
