@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Deeds will not be less valiant because they are upraised.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 <!-- #quote-end -->
