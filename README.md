@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Because a thing seems difficult for you, do not think it impossible.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <!-- #quote-end -->
