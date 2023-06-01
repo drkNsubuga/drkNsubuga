@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Success is like reaching an important birthday and finding you're exactly the same.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Anything becomes interesting if you look at it long enough..&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 <!-- #quote-end -->
