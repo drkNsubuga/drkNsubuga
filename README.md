@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Great things are not done by impulse, but by a series of small things brought together.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;I am not the outcome. I am never the result. I am only the effort.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 <!-- #quote-end -->
