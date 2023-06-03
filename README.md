@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
+<blockquote>&ldquo;Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 <!-- #quote-end -->
