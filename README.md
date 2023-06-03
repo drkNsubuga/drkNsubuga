@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
+<blockquote>&ldquo;Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <!-- #quote-end -->
