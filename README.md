@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 <!-- #quote-end -->
