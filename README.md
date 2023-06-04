@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Intense love does not measure, it just gives.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
+<blockquote>&ldquo;The question isn't who is going to let me; it's who is going to stop me.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 <!-- #quote-end -->
