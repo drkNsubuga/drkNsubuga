@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;There are no shortcuts to any place worth going.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+<blockquote>&ldquo;True prayer has no set form.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 <!-- #quote-end -->
