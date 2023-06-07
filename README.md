@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Everything is in your own heart.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+<blockquote>&ldquo;The only thing we have to fear is fear itself.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 <!-- #quote-end -->
