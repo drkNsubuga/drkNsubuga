@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;No amount of regretting can change the past, and no amount of worrying can change the future.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Everything is in your own heart.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 <!-- #quote-end -->
