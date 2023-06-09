@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Love is the expression of one's values.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 <!-- #quote-end -->
