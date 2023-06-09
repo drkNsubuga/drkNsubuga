@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't look back - you're not going that way.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;Friendship is like money, easier made than kept.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 <!-- #quote-end -->
