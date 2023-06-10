@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;You have a brain and mind of your own. Use it, and reach your own decisions.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 <!-- #quote-end -->
