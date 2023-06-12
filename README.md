@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Turn your wounds into wisdom. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+<blockquote>&ldquo;Nothing is more creative...nor destructive...than a brilliant mind with a purpose.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
 <!-- #quote-end -->
