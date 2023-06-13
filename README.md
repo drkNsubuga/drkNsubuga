@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You can live a whole life time never being awake.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;Learning is a weightless treasure you can always carry easily.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 <!-- #quote-end -->
