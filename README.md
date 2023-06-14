@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. &rdquo; &mdash; <footer>Nikola Tesla</footer></blockquote>
+<blockquote>&ldquo;The destiny of man is in his own soul. &rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 <!-- #quote-end -->
