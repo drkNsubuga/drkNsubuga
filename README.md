@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The person who never made a mistake never tried anything new.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
+<blockquote>&ldquo;You can suffer the pain of change or suffer remaining the way you are.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 <!-- #quote-end -->
