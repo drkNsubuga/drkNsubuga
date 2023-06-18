@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The way of success is the way of continuous pursuit of knowledge.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 <!-- #quote-end -->
