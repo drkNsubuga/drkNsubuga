@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;When you reach the top of the mountain, keep climbing. &rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Pain doesn't last. And when it's gone, we have something to show for it. Growth.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 <!-- #quote-end -->
