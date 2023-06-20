@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;While some of us act without thinking, too many of us think without acting.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;If you don't find the time, if you don't do the work, you don't get the results.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 <!-- #quote-end -->
