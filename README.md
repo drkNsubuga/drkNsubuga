@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
+<blockquote>&ldquo;We lie the loudest when we lie to ourselves.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 <!-- #quote-end -->
