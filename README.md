@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The real meditation is how you live your life.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+<blockquote>&ldquo;Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 <!-- #quote-end -->
