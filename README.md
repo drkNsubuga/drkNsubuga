@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;Your home is where your thoughts find peace.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 <!-- #quote-end -->
