@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;We lie the loudest when we lie to ourselves.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Reversing your treatment of the man you have wronged is better than asking his forgiveness.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
 <!-- #quote-end -->
