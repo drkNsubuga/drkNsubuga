@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Correct what you can. Learn from what you can't.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
+<blockquote>&ldquo;We must cultivate our garden. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 <!-- #quote-end -->
