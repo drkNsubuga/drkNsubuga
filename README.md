@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Go confidently in the direction of your dreams. Live the life you've imagined.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;If you want to know what God thinks about money just look at the people He gives it to.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
 <!-- #quote-end -->
