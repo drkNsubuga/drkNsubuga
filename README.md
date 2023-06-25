@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The first principle of success is desire.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
+<blockquote>&ldquo;It is not fair to ask of others what you are not willing to do yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
