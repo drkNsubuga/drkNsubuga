@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The first man gets the oyster, the second man gets the shell.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Meditate. It won't be fun but it will surface what you need to deal with.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 <!-- #quote-end -->
