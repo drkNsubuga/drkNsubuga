@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Even if you persuade me, you won't persuade me.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 <!-- #quote-end -->
