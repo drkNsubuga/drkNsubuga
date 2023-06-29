@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;The road to success is always under construction..&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
 <!-- #quote-end -->
