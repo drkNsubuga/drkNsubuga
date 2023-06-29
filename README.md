@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The deeper the truth in a creative work, the longer it will live.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote>
+<blockquote>&ldquo;Always seek out the seed of triumph in every adversity.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 <!-- #quote-end -->
