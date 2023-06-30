@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Discontent is the first necessity of progress.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+<blockquote>&ldquo;Selfishness and greed, individual or national, cause most of our troubles.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 <!-- #quote-end -->
