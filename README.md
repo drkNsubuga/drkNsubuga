@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Short cuts make long delays.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
+<blockquote>&ldquo;Even if you persuade me, you won't persuade me.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 <!-- #quote-end -->
