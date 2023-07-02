@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;We never know the love of a parent till we become parents ourselves.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;To achieve, you need thought. You have to know what you are doing and that's real power.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 <!-- #quote-end -->
