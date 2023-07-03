@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
+<blockquote>&ldquo;A man sooner or later discovers that he is the master-gardener of his soul, the director of his life.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 <!-- #quote-end -->
