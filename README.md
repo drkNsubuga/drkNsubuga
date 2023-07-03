@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
+<blockquote>&ldquo;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 <!-- #quote-end -->
