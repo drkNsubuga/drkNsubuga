@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Things do not have meaning. We assign meaning to everything.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Shoot for the moon. Even if you miss, you'll land among the stars.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 <!-- #quote-end -->
