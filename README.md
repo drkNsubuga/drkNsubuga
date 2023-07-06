@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;We are like islands in the sea, separate on the surface but connected in the deep.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;I can live without money, but I cannot live without love.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 <!-- #quote-end -->
