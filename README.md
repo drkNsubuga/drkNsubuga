@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;You are the average of the five people you spend the most time with.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <!-- #quote-end -->
