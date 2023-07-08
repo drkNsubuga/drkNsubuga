@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;The time is always right to do what is right.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+<blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 <!-- #quote-end -->
