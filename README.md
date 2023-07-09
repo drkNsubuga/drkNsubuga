@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Projecting your mind into a successful situation is the most powerful means to achieve goals.  &rdquo; &mdash; <footer>Estee Lauder</footer></blockquote>
+<blockquote>&ldquo;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 <!-- #quote-end -->
