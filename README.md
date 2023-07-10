@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+<blockquote>&ldquo;It's just a bad day, not a bad life.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
 <!-- #quote-end -->
