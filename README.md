@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Live your life as an exclamation rather than an explanation.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
