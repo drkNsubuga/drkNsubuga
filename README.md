@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;It's just a bad day, not a bad life.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;Open your eyes and look within. Are you satisfied with the life you're living?&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 <!-- #quote-end -->
