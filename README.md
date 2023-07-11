@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;To find yourself, think for yourself.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Sometimes you have to travel a long way to find what is near.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 <!-- #quote-end -->
