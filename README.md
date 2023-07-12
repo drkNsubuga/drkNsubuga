@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;All you need is the plan, the road map, and the courage to press on to your destination.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;Be approximately right rather than exactly wrong.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
 <!-- #quote-end -->
