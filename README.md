@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Be approximately right rather than exactly wrong.&rdquo; &mdash; <footer>John Tukey</footer></blockquote>
+<blockquote>&ldquo;The art of being wise is knowing what to overlook.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <!-- #quote-end -->
