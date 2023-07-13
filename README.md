@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Being a good example is the best form of service.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;Work harder on yourself than you do on your job.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <!-- #quote-end -->
