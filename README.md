@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
+<blockquote>&ldquo;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
