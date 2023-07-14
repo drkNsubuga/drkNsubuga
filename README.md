@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;Who wishes to fight must first count the cost.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <!-- #quote-end -->
