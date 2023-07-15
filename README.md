@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is either a daring adventure, or nothing.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 <!-- #quote-end -->
