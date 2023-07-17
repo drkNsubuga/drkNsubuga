@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't hate the player. Change the game.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;Never be bored, and you will never be boring.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
