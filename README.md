@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Work is always an antidote to depression.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Don't hate the player. Change the game.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 <!-- #quote-end -->
