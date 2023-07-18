@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Nothing has more strength than dire necessity.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+<blockquote>&ldquo;Empty your mind, be formless, shapeless, like water.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 <!-- #quote-end -->
