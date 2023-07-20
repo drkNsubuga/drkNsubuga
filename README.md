@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;If you take responsibility for yourself you will develop a hunger to accomplish your dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Keep your dreams, you never know when you might need them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 <!-- #quote-end -->
