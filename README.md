@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Keep your dreams, you never know when you might need them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+<blockquote>&ldquo;Life is a process. We are a process. The universe is a process.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 <!-- #quote-end -->
