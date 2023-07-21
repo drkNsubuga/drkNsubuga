@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Thoughts become things. If you see it in your mind, you will hold it in your hand.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+<blockquote>&ldquo;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote>
 <!-- #quote-end -->
