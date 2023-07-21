@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is a process. We are a process. The universe is a process.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+<blockquote>&ldquo;Thoughts become things. If you see it in your mind, you will hold it in your hand.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 <!-- #quote-end -->
