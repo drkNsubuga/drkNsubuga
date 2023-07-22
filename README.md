@@ -24,7 +24,7 @@
 
 
 ## My Current Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true&layout=compact"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
 ## One of my favourite quotes
 
