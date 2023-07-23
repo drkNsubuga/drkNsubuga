@@ -36,5 +36,5 @@
 <!-- #attribution-end -->
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;If you want to achieve greatness stop asking for permission.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
