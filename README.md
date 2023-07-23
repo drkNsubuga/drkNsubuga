@@ -27,9 +27,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true&layout=compact"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
 ## For inspiration
-<!-- #quote-start -->
-<blockquote>&ldquo;All men are equal before fish.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
-<!-- #quote-end -->
 
 ## Credits
 
@@ -38,3 +35,6 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey"/></a>
 <!-- #attribution-end -->
 
+<!-- #quote-start -->
+<blockquote>&ldquo;Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<!-- #quote-end -->
