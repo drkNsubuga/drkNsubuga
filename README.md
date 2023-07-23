@@ -26,14 +26,7 @@
 ## Current Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true&layout=compact"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
-## For inspiration
-
-## Credits
-
-<br/>
-<!-- #attribution-start -->
-<a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey"/></a>
-<!-- #attribution-end -->
+## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
 <blockquote>&ldquo;This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
