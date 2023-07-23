@@ -36,5 +36,5 @@
 <!-- #attribution-end -->
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 <!-- #quote-end -->
