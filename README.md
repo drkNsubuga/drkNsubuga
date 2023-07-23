@@ -27,11 +27,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=drkNsubuga&count_private=true&layout=compact"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drkNsubuga&show_icons=true&count_private=true&custom_title=Activity%20Summary"/>
 
 ## For inspiration
-
-## Credits
-<!-- #attribution-start -->
-<a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey"/></a>
-<!-- #attributionend -->
 <!-- #quote-start -->
 <blockquote>&ldquo;All men are equal before fish.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 <!-- #quote-end -->
+## Credits
+<br/>
+<!-- #attribution-start -->
+<a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey"/></a>
+<!-- #attribution-end -->
+
