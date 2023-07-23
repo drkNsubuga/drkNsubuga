@@ -36,5 +36,5 @@
 <!-- #attribution-end -->
 
 <!-- #quote-start -->
-<blockquote>&ldquo;If you want to achieve greatness stop asking for permission.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
