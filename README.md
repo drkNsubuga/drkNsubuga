@@ -36,5 +36,5 @@
 <!-- #attribution-end -->
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Throughout this life, you can never be certain of living long enough to take another breath.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <!-- #quote-end -->
