@@ -33,5 +33,5 @@
 <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes%20API-lightgrey" align="right"/></a>
 <!-- #attributionend -->
 <!-- #quote-start -->
-<blockquote>&ldquo;People become attached to their burdens sometimes more than the burdens are attached to them.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;Embrace the life you have and stop wishing that you could be someone else.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 <!-- #quote-end -->
