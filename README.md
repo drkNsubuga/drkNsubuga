@@ -36,5 +36,5 @@
 <!-- #attribution-end -->
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The real measure of your wealth is how much you'd be worth if you lost all your money.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Throughout this life, you can never be certain of living long enough to take another breath.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
 <!-- #quote-end -->
