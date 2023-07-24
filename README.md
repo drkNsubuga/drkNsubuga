@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 <!-- #quote-end -->
