@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;If everyone is moving forward together, then success takes care of itself.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
 <!-- #quote-end -->
