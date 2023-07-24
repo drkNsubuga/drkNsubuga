@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;Don't be afraid to see what you see.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
 <!-- #quote-end -->
