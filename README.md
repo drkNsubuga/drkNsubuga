@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The fastest way to change is to laugh at your own folly.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;The pen is the tongue of the mind. &rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 <!-- #quote-end -->
