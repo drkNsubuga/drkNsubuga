@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You can't climb the ladder of success with your hands in your pockets.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 <!-- #quote-end -->
