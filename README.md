@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;I wasn't brave, I just didn't have time to be scared.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 <!-- #quote-end -->
