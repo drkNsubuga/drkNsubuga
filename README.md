@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;What people need and what they want may be very different.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 <!-- #quote-end -->
