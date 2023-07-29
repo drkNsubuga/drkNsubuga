@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Successful people are not without problems. They're simply people who've learned to solve their problems.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+<blockquote>&ldquo;As you love yourself, life loves you back.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 <!-- #quote-end -->
