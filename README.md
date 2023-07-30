@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The person who is his own master cannot tolerate another boss. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>
 <!-- #quote-end -->
