@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You can tell more about a person by what he says about others than you can by what others say about him.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Always be a first-rate version of yourself, instead of a second-rate version of someone else.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
 <!-- #quote-end -->
