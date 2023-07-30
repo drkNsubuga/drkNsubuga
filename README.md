@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Always be a first-rate version of yourself, instead of a second-rate version of someone else.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+<blockquote>&ldquo;Focused, hard work is the real key to success.&rdquo; &mdash; <footer>John Carmack</footer></blockquote>
 <!-- #quote-end -->
