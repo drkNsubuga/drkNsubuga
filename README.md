@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Focused, hard work is the real key to success.&rdquo; &mdash; <footer>John Carmack</footer></blockquote>
+<blockquote>&ldquo;Don't just sit there. Do something. The answers will follow.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 <!-- #quote-end -->
