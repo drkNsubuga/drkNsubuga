@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Better a diamond with a flaw than a pebble without one.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Be grateful for what you have now, and nothing should be taken for granted.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 <!-- #quote-end -->
