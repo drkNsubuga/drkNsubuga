@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+<blockquote>&ldquo;Fools talk, cowards are silent, wise men listen.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 <!-- #quote-end -->
