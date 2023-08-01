@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Do not allow your inner doubts to keep you from achieving what you can do.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Change your thoughts and you change your world.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 <!-- #quote-end -->
