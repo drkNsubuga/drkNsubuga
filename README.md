@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Plants grow weak without wind.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 <!-- #quote-end -->
