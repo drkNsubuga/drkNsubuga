@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You can't have anything worthwhile without difficulties.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
+<blockquote>&ldquo;Try not to become a man of success, but rather try to become a man of value.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 <!-- #quote-end -->
