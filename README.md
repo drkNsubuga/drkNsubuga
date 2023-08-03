@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You Create Your Own Present By What You Give Your Attention To Today.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+<blockquote>&ldquo;No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
 <!-- #quote-end -->
