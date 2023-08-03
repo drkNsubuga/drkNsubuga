@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Believe in one thing too much and you have no room for new ideas.  &rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>
+<blockquote>&ldquo;You Create Your Own Present By What You Give Your Attention To Today.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 <!-- #quote-end -->
