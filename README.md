@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Great things are not done by impulse, but by a series of small things brought together.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;We love the things we love for what they are.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
 <!-- #quote-end -->
