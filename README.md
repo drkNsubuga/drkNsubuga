@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It is not enough to win a war; it is more important to organize the peace.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.&rdquo; &mdash; <footer>David Brinkley</footer></blockquote>
 <!-- #quote-end -->
