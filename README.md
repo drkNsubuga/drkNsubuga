@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Never stand begging for that which you have the power to earn.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+<blockquote>&ldquo;Love your enemies, for they tell you your faults.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <!-- #quote-end -->
