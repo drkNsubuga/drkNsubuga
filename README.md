@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You don't need anybody to tell you who you are or what you are. You are what you are!&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;I try more and more to be myself, caring relatively little whether people approve or disapprove.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
 <!-- #quote-end -->
