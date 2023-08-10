@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;A dream doesn't become reality through magic it takes sweat, determination and hard work.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;When something is important enough, you do it even if the odds are not in your favor.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <!-- #quote-end -->
