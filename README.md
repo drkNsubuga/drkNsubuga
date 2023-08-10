@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Every saint has a past, and every sinner has a future.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+<blockquote>&ldquo;People who bite the hand that feeds them usually lick the boot that kicks them.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 <!-- #quote-end -->
