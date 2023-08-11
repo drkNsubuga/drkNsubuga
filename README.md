@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;People who bite the hand that feeds them usually lick the boot that kicks them.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
+<blockquote>&ldquo;Believe that life is worth living and your belief will help create the fact.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <!-- #quote-end -->
