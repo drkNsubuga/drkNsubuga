@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  &rdquo; &mdash; <footer>Jack Kerouac</footer></blockquote>
+<blockquote>&ldquo;Absorb what is useful, discard what is not, add what is uniquely your own.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 <!-- #quote-end -->
