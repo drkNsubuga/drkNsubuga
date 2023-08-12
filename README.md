@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Some people dream of success, while others wake up and work hard at it.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;I pay attention to every minute of the day.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 <!-- #quote-end -->
