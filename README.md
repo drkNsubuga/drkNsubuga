@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Some people want it to happen, some wish it would happen, others make it happen.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+<blockquote>&ldquo;The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 <!-- #quote-end -->
