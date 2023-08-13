@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;Give more than you think you can, trusting that you are richer than you think.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
 <!-- #quote-end -->
