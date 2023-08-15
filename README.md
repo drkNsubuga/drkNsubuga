@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;None but ourselves can free our minds.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
+<blockquote>&ldquo;I must also have a dark side if I am to be whole.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 <!-- #quote-end -->
