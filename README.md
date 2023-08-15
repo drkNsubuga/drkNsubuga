@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;The greatest of empires, is the empire over one's self.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
 <!-- #quote-end -->
