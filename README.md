@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Attitude drives actions. Actions drive results. Results drive lifestyles.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Not doing it is certainly the best way to not getting it.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 <!-- #quote-end -->
