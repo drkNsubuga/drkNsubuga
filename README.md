@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The best mind-altering drug is the truth.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Attitude drives actions. Actions drive results. Results drive lifestyles.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <!-- #quote-end -->
