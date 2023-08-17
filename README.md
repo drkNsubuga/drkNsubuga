@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Avoiding failure is to avoid progress.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 <!-- #quote-end -->
