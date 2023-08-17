@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You become a worrier by practicing worry. You become free of worry by practicing the opposite.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <!-- #quote-end -->
