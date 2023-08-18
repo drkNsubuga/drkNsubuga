@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;When you are able to employ your will always for constructive purposes, you become the controller of your destiny.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Closing your eyes and listening to silence is self-care.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
