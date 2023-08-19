@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;To live is to be willing to die over and over again.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;The chief danger in life is that you may take too many precautions.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
 <!-- #quote-end -->
