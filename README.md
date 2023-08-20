@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Most of us will do anything to avoid facing ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+<blockquote>&ldquo;Take responsibility of your own happiness, never put it in other people's hands.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 <!-- #quote-end -->
