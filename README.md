@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The chief danger in life is that you may take too many precautions.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;Most of us will do anything to avoid facing ourselves.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 <!-- #quote-end -->
