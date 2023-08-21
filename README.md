@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Be brave enough to suck at something new.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
 <!-- #quote-end -->
