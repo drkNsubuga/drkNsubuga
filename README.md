@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Speak when you are angry - and you'll make the best speech you'll ever regret.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
+<blockquote>&ldquo;Listen to what you know instead of what you fear.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 <!-- #quote-end -->
