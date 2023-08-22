@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;For every minute you are angry you lose sixty seconds of happiness.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;The wisest men follow their own direction.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
 <!-- #quote-end -->
