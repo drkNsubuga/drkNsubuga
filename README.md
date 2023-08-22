@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Learn the rules like a pro, so you can break them like an artist.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
+<blockquote>&ldquo;For every minute you are angry you lose sixty seconds of happiness.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 <!-- #quote-end -->
