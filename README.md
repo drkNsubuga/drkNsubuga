@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Wheresoever you go, go with all your heart.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Faith is taking the first step even when you don't see the whole staircase.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 <!-- #quote-end -->
