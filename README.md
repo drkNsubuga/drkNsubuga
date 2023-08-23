@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+<blockquote>&ldquo;Rich people have small TVs and big libraries, and poor people have small libraries and big TVs.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <!-- #quote-end -->
