@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;I don't ever give up. I'd have to be dead or completely incapacitated.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
+<blockquote>&ldquo;Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <!-- #quote-end -->
