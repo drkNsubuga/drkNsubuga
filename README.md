@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;When the world pushes you to your knees, you're in the perfect position to pray.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
+<blockquote>&ldquo;In the midst of movement and chaos, keep stillness inside of you.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <!-- #quote-end -->
