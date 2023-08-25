@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+<blockquote>&ldquo;Numbing the pain for a while will only make it worse when you finally feel it.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 <!-- #quote-end -->
