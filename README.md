@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The most virtuous are those who content themselves with being virtuous without seeking to appear so.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;Everyone has the right to make his own decisions, but none has the right to force his decision on others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
 <!-- #quote-end -->
