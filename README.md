@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is what you make it. Always has been, always will be.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Our truest life is when we are in dreams awake.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 <!-- #quote-end -->
