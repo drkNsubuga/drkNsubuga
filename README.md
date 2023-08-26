@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 <!-- #quote-end -->
