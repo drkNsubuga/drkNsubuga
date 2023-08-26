@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Everyone has the right to make his own decisions, but none has the right to force his decision on others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>
+<blockquote>&ldquo;Life is what you make it. Always has been, always will be.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
