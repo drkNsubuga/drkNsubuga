@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Our truest life is when we are in dreams awake.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 <!-- #quote-end -->
