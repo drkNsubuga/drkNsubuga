@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Confidence is what you have before you understand the problem.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;To improve is to change, so to be perfect is to change often.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 <!-- #quote-end -->
