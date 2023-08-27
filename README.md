@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+<blockquote>&ldquo;Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 <!-- #quote-end -->
