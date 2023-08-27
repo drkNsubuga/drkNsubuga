@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
+<blockquote>&ldquo;Confidence is what you have before you understand the problem.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 <!-- #quote-end -->
