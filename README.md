@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;To improve is to change, so to be perfect is to change often.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;Simple words, repeated daily, can change your life.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
