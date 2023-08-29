@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;They say love is the best investment; the more you give, the more you get in return.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <!-- #quote-end -->
