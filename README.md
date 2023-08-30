@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Man invented language to satisfy his deep need to complain.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+<blockquote>&ldquo;Education breeds confidence. Confidence breeds hope. Hope breeds peace.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 <!-- #quote-end -->
