@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Do your duty and a little more and the future will take care of itself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Remember to look up at the stars and not down at your feet.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 <!-- #quote-end -->
