@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Your setback is just a setup for a comeback.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 <!-- #quote-end -->
