@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+<blockquote>&ldquo;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
 <!-- #quote-end -->
