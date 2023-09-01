@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Believe in your infinite potential. Your only limitations are those you set upon yourself.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+<blockquote>&ldquo;Your setback is just a setup for a comeback.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 <!-- #quote-end -->
