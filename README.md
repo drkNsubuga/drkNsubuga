@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;All happiness depends on courage and work.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
+<blockquote>&ldquo;Where there is anger, there is always pain underneath.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <!-- #quote-end -->
