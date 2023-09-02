@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It's not whether you get knocked down, its whether you get back up.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;All happiness depends on courage and work.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote>
 <!-- #quote-end -->
