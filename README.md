@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Eighty percent of success is showing up. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+<blockquote>&ldquo;The less you open your heart to others, the more your heart suffers.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
 <!-- #quote-end -->
