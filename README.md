@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The less you open your heart to others, the more your heart suffers.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+<blockquote>&ldquo;If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
