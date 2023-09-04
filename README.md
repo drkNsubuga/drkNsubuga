@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Success comes from knowing that you did your best to become the best that you are capable of becoming.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 <!-- #quote-end -->
