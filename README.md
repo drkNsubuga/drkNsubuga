@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Success comes from knowing that you did your best to become the best that you are capable of becoming.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;We are what we repeatedly do. Excellence, then, is not an act, but a habit.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 <!-- #quote-end -->
