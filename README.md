@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;We are what we repeatedly do. Excellence, then, is not an act, but a habit.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 <!-- #quote-end -->
