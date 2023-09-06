@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
+<blockquote>&ldquo;Success is nothing more than a few simple disciplines practiced every day.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <!-- #quote-end -->
