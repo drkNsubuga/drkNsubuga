@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;The first rule of business; treat others like they want to treat you.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <!-- #quote-end -->
