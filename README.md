@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. &rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 <!-- #quote-end -->
