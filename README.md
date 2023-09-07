@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It's not the men in your life that matters, it's the life in your men.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;Stress happens when the mind resists what is.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 <!-- #quote-end -->
