@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Peace is letting it be. Letting life flow, letting emotions flow through you.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;Because of your smile, you make life more beautiful.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 <!-- #quote-end -->
