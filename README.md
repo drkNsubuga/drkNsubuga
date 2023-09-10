@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It is impossible for a man to learn what he thinks he already knows.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;You are the sky. Everything else - it's just the weather.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 <!-- #quote-end -->
