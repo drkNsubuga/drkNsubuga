@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't settle, and don't struggle.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Even the smallest person can change the course of the future.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!-- #quote-end -->
