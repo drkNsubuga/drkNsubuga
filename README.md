@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;A man is but a product of his thoughts. What he thinks he becomes.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;Growing up is losing some illusions, in order to acquire others.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 <!-- #quote-end -->
