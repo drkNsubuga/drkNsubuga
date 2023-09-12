@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;A golden cage is still just a cage.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
+<blockquote>&ldquo;FOCUS - Follow One Course Until Successful&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 <!-- #quote-end -->
