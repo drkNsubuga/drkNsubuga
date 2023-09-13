@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;The weak can never forgive. Forgiveness is the attribute of the strong.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;If you cannot understand something, then you have understood it incorrectly.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
 <!-- #quote-end -->
