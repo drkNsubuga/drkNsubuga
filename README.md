@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;If you cannot understand something, then you have understood it incorrectly.&rdquo; &mdash; <footer>Kabir</footer></blockquote>
+<blockquote>&ldquo;Patience is bitter, but its fruit is sweet.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 <!-- #quote-end -->
