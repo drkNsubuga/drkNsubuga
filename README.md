@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Loss is nothing else but change and change is nature's delight.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Just do what must be done. This may not be happiness but it is greatness.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 <!-- #quote-end -->
