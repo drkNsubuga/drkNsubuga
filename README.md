@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;You can have the mind or you can have the moment.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+<blockquote>&ldquo;Wise people, even though all laws were abolished, would still lead the same life.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 <!-- #quote-end -->
