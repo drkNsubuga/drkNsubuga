@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Just do what must be done. This may not be happiness but it is greatness.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+<blockquote>&ldquo;You can have the mind or you can have the moment.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 <!-- #quote-end -->
