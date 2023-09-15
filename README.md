@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+<blockquote>&ldquo;Life is much more successfully looked at from a single window.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
 <!-- #quote-end -->
