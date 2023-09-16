@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It is not how much we have, but how much we enjoy, that makes happiness.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
+<blockquote>&ldquo;Unhappiness enters through a door that has been left open.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 <!-- #quote-end -->
