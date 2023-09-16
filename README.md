@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+<blockquote>&ldquo;We are all faced with a series of great opportunities brilliantly disguised as impossible situations. &rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote>
 <!-- #quote-end -->
