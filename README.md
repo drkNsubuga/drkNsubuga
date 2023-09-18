@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;There is nothing more frightful than ignorance in action.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+<blockquote>&ldquo;What do we live for if not to make life less difficult for each other?&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 <!-- #quote-end -->
