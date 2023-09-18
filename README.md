@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It doesn't matter what you do, only how well you do it.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;There is nothing more frightful than ignorance in action.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 <!-- #quote-end -->
