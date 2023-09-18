@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;It's easier to lose than to win.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+<blockquote>&ldquo;It is not fair to ask of others what you are not willing to do yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
