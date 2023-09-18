@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;What do we live for if not to make life less difficult for each other?&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;It's easier to lose than to win.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
 <!-- #quote-end -->
