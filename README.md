@@ -29,5 +29,5 @@
 ## For inspiration <a href="https://zenquotes.io/" target="_blank"><img src="https://img.shields.io/badge/Inspirational%20quote%20provided%20by-ZenQuotes-lightgrey" align="right"/></a>
 
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't Let Yesterday Take Up Too Much Of Today.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;Anything worth doing is worth doing slowly.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
 <!-- #quote-end -->
