@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Decide what your truth is. Then live it.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 <!-- #quote-end -->
