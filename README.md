@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>
+<blockquote>&ldquo;When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 <!-- #quote-end -->
