@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;If you look for perfection, you'll never be content.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+<blockquote>&ldquo;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 <!-- #quote-end -->
