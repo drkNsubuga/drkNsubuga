@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Those who are easily shocked should be shocked more often.&rdquo; &mdash; <footer>Mae West</footer></blockquote>
+<blockquote>&ldquo;Whatever is begun in anger, ends in shame.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 <!-- #quote-end -->
