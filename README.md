@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Fear not the path of Truth for the lack of People walking on it.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+<blockquote>&ldquo;Successful people are not without problems. They're simply people who've learned to solve their problems.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 <!-- #quote-end -->
