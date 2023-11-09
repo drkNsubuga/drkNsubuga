@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The birth of the mind is the death of the senses.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+<blockquote>&ldquo;None of us can change our yesterdays but all of us can change our tomorrows.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <!-- #quote-end -->
