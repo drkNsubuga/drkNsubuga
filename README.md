@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Wise people, even though all laws were abolished, would still lead the same life.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;A flower falls, even though we love it; and a weed grows, even though we do not love it.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
 <!-- #quote-end -->
