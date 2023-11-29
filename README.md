@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;All life is an experiment. The more experiments you make, the better.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;I defeat my enemies when I make them my friends.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 <!-- #quote-end -->
