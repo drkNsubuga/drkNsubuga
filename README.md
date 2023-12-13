@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It is easier to fight for one's principles than to live up to them. &rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 <!-- #quote-end -->
