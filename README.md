@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;I've always tried to go a step past wherever people expected me to end up.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>
+<blockquote>&ldquo;It is in the darkness that one finds the light.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote>
 <!-- #quote-end -->
