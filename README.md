@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;If the plan doesn't work, change the plan, but never the goal.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;When it hurts - observe. Life is trying to teach you something.&rdquo; &mdash; <footer>Anita Krizzan</footer></blockquote>
 <!-- #quote-end -->
