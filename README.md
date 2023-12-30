@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Your neighbor is the man who needs you.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;Forgive yourself for your faults and your mistakes and move on.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <!-- #quote-end -->
