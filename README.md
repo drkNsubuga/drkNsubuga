@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Forgive yourself for your faults and your mistakes and move on.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Live your life as an exclamation rather than an explanation.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 <!-- #quote-end -->
