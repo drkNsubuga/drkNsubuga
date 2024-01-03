@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Only when you can be extremely pliable and soft can you be extremely hard and strong.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+<blockquote>&ldquo;Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <!-- #quote-end -->
