@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It's your outlook on life that counts.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;Courage is found in unlikely places.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!-- #quote-end -->
