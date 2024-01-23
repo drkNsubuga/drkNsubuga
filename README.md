@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The quality of your life is determined by the quality of your thoughts.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;Human beings believe just as they breathe - in order to survive.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 <!-- #quote-end -->
