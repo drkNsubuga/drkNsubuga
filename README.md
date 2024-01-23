@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;Chop your own wood and it will warm you twice. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 <!-- #quote-end -->
