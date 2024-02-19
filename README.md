@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;I was wise enough to never grow up while fooling most people into believing I had. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>
+<blockquote>&ldquo;It is safer to search in the maze than to remain in a cheeseless situation.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 <!-- #quote-end -->
