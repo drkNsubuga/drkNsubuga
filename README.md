@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Whatever you do in life, surround yourself with smart people who'll argue with you.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+<blockquote>&ldquo;Progress is impossible without change, and those who cannot change their minds cannot change anything.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 <!-- #quote-end -->
