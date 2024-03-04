@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;We can change our lives. We can do, have, and be exactly what we wish.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 <!-- #quote-end -->
