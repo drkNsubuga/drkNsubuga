@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Fools resist. The wise embrace.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;All has not been said and never will be.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
 <!-- #quote-end -->
