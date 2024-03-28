@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;All has not been said and never will be.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+<blockquote>&ldquo;Many people spend more time looking at their failures than focusing on their successes.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 <!-- #quote-end -->
