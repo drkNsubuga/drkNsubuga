@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;One of the most difficult things is not to change society - but to change yourself.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>
+<blockquote>&ldquo;Success is not to be pursued, it is to be attracted by the person you become.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 <!-- #quote-end -->
