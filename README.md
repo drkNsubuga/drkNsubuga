@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>
+<blockquote>&ldquo;Successful people ask better questions, and as a result, they get better answers.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 <!-- #quote-end -->
