@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Even a hare will bite when it is cornered. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
