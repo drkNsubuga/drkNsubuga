@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. &rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+<blockquote>&ldquo;Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>
 <!-- #quote-end -->
