@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;I pay attention to every minute of the day.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+<blockquote>&ldquo;It isn't what you do, but how you do it.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 <!-- #quote-end -->
