@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;He who has overcome his fears will truly be free.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
+<blockquote>&ldquo;We live only now. Everything else is either passed or is unknown.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 <!-- #quote-end -->
