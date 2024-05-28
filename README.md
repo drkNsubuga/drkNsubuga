@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Peace is letting it be. Letting life flow, letting emotions flow through you.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+<blockquote>&ldquo;Never to suffer would never to have been blessed.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
 <!-- #quote-end -->
