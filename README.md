@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
+<blockquote>&ldquo;Do not wait for leaders; do it alone, person to person.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 <!-- #quote-end -->
