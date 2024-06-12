@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
+<blockquote>&ldquo;There are few reasons for telling the truth, but for lying the number is infinite.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 <!-- #quote-end -->
