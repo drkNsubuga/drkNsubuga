@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't let the noise of others' opinions drown out your own inner voice.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>
+<blockquote>&ldquo;You can not live your life just based on what everyone else thinks.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 <!-- #quote-end -->
