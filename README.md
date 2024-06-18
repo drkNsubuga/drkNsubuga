@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Opportunities don't often come along. So, when they do, you have to grab them.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>
+<blockquote>&ldquo;People who have goals succeed because they know where they're going. It's that simple.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 <!-- #quote-end -->
