@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;As soon as you truly commit to making something happen, the 'how' will reveal itself.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;Every traveler has a home of his own, and he learns to appreciate it the more from his wandering.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 <!-- #quote-end -->
