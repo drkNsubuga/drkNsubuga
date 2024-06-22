@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;From the errors of others, a wise man corrects his own.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>
+<blockquote>&ldquo;It is our choices that show what we truly are, far more than our abilities.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 <!-- #quote-end -->
