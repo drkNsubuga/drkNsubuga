@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Growing up is losing some illusions, in order to acquire others.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+<blockquote>&ldquo;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 <!-- #quote-end -->
