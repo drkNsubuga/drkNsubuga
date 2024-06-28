@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Work for something because it is good, not just because it stands a chance to succeed.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;Trust thyself: every heart vibrates to that iron string.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 <!-- #quote-end -->
