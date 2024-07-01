@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;We take care of the future best by taking care of the present now.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+<blockquote>&ldquo;The secret of change is to focus all your energy not on fighting the old, but on building the new.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 <!-- #quote-end -->
