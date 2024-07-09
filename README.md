@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Why live an ordinary life, when you can live an extraordinary one.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;If you believe you can, you can. If you believe you can't, then, well you can't.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 <!-- #quote-end -->
