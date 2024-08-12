@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Work for something because it is good, not just because it stands a chance to succeed.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;It's the possibility of having a dream come true that makes life interesting.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 <!-- #quote-end -->
