@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The most important thing in communication is to hear what isn't being said.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>
 <!-- #quote-end -->
