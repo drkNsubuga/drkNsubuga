@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Be - don't try to become &rdquo; &mdash; <footer>Osho</footer></blockquote>
+<blockquote>&ldquo;Your business is not to 'get somewhere' - it is to be here.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 <!-- #quote-end -->
