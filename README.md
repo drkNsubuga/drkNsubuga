@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Peaceful is the one who expects nothing.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;Remember, today is the tomorrow you worried about yesterday.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 <!-- #quote-end -->
