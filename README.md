@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Keep others in suspense, cultivate an air of unpredictability.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;Never say never, because limits, like fears, are often just an illusion.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
 <!-- #quote-end -->
