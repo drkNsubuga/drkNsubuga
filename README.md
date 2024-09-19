@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;We should not look back unless it is to derive useful lessons from past errors.&rdquo; &mdash; <footer>George Washington</footer></blockquote>
 <!-- #quote-end -->
