@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+<blockquote>&ldquo;The dead receive more flowers than the living because regret is stronger than gratitude.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
 <!-- #quote-end -->
