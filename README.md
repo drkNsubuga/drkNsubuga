@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Observe things as they are and don't pay attention to other people.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>
+<blockquote>&ldquo;Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 <!-- #quote-end -->
