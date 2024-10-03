@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;To become what you are not, behave as you do not.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+<blockquote>&ldquo;If we will be quiet and ready enough, we shall find compensation in every disappointment.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 <!-- #quote-end -->
