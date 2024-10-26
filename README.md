@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Genius is the ability to act rightly without precedent - the power to do the right thing the first time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote>
+<blockquote>&ldquo;It's OK to have your eggs in one basket as long as you control what happens to that basket.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>
 <!-- #quote-end -->
