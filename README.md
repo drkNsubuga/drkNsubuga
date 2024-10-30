@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Coming together is a beginning, staying together is progress, and working together is success. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+<blockquote>&ldquo;Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 <!-- #quote-end -->
