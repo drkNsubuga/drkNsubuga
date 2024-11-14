@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Men are equal; it is not birth but virtue that makes the difference.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Just get out and do it. You will be very, very glad that you did.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>
 <!-- #quote-end -->
