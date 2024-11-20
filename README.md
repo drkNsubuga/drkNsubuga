@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Do what you feel in your heart to be right - for you'll be criticized anyway.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
 <!-- #quote-end -->
