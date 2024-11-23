@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Without the confidence, nothing can be accomplished.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>
+<blockquote>&ldquo;Difficult roads often lead to beautiful destinations.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
