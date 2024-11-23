@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The fewer the words, the better the prayer.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;If you always do what you've always done, you'll always get what you've always got. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 <!-- #quote-end -->
