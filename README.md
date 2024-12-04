@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The quality of your life is the quality of your relationships.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+<blockquote>&ldquo;It takes a very long time to become young.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 <!-- #quote-end -->
