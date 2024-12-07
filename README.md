@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;To create more positive results in your life, replace 'if only' with 'next time'.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+<blockquote>&ldquo;Nothing external to you has any power over you.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 <!-- #quote-end -->
