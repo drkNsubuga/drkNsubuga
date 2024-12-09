@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
+<blockquote>&ldquo;Words without actions are the assassins of idealism.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
 <!-- #quote-end -->
