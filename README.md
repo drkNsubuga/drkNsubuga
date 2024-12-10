@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Nothing is really work unless you would rather be doing something else. &rdquo; &mdash; <footer>James Matthew Barrie</footer></blockquote>
+<blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 <!-- #quote-end -->
