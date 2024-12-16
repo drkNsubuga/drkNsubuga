@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+<blockquote>&ldquo;Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
 <!-- #quote-end -->
