@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;In order for you to be the BEST you can be for others, first you must be BEST for yourself.&rdquo; &mdash; <footer>Jeffrey Gitomer</footer></blockquote>
+<blockquote>&ldquo;Leadership starts at the top.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
 <!-- #quote-end -->
