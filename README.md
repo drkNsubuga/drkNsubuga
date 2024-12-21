@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Live simply, expect little, give much.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
+<blockquote>&ldquo;Our greatest glory is not in never falling but in rising every time we fall.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 <!-- #quote-end -->
