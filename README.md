@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It's not about what it is, it's about what it can become.&rdquo; &mdash; <footer>Dr. Seuss</footer></blockquote>
+<blockquote>&ldquo;Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 <!-- #quote-end -->
