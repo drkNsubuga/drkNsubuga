@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The salvation of the world lies in the human heart.&rdquo; &mdash; <footer>Vaclav Havel</footer></blockquote>
+<blockquote>&ldquo;Creative people are often found either disagreeable or intimidating by mediocrities.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 <!-- #quote-end -->
