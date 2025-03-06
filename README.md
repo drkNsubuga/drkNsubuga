@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;What kills the creative force is not age or lack of talent, but our own spirit, our own attitude.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>
 <!-- #quote-end -->
