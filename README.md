@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The best answer to anger is silence.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;You will face many defeats in life, but never let yourself be defeated.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 <!-- #quote-end -->
