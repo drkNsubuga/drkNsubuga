@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
 <!-- #quote-end -->
