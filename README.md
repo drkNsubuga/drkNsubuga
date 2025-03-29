@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A little progress each day adds up to big results.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+<blockquote>&ldquo;If you don't know where you're going, you will probably end up somewhere else.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote>
 <!-- #quote-end -->
