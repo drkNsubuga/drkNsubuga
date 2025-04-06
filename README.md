@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Patience is a bitter plant, but its fruit is sweet.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;I am always doing that which I can not do, in order that I may learn how to do it.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 <!-- #quote-end -->
