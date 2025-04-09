@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Like it or not, this moment is all we really have to work with.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
+<blockquote>&ldquo;The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 <!-- #quote-end -->
