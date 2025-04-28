@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+<blockquote>&ldquo;Most of the evil in this world is done by people with good intentions.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
 <!-- #quote-end -->
