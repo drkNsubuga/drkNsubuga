@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;You are what you do, not what you say you'll do.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+<blockquote>&ldquo;The man who moved the mountain was the one who began carrying away the smallest stones.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
 <!-- #quote-end -->
