@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
+<blockquote>&ldquo;Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 <!-- #quote-end -->
