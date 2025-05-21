@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+<blockquote>&ldquo;Our deeds determine us, as much as we determine our deeds.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 <!-- #quote-end -->
