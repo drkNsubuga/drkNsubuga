@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It's necessary to get the losers out of your life if you want to live your dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Optimism is the one quality more associated with success and happiness than any other.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 <!-- #quote-end -->
