@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Heaven is right where you are standing.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;People think about what they don't want and attract more of the same.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 <!-- #quote-end -->
