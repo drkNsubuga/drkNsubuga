@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;The wiser you get, the less you care to look like a fool.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
