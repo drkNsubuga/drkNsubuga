@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is growth. If we stop growing, technically and spiritually, we are as good as dead.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+<blockquote>&ldquo;My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
 <!-- #quote-end -->
