@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Nothing makes a man broad-minded like adversity.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+<blockquote>&ldquo;By words the mind is winged.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 <!-- #quote-end -->
