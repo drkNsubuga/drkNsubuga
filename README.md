@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+<blockquote>&ldquo;I can think of nothing less pleasurable than a life devoted to pleasure.&rdquo; &mdash; <footer>John D. Rockefeller</footer></blockquote>
 <!-- #quote-end -->
