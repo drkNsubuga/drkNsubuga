@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+<blockquote>&ldquo;Don't spend time beating on a wall, hoping to transform it into a door.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 <!-- #quote-end -->
