@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Human beings can alter their lives by altering their attitudes of mind.&rdquo; &mdash; <footer>William James</footer></blockquote>
+<blockquote>&ldquo;Make yourself so useful to other people, that they think you are irreplaceable.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 <!-- #quote-end -->
