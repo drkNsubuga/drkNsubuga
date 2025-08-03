@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The friendship that can cease has never been real. &rdquo; &mdash; <footer>St. Jerome</footer></blockquote>
+<blockquote>&ldquo;Imagination is more important than knowledge.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 <!-- #quote-end -->
