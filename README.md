@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;He who leaves the game wins it.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+<blockquote>&ldquo;What would you do if you weren't afraid?&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 <!-- #quote-end -->
