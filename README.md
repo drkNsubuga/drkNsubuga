@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Turn your face to the sun, as flowers know how to do.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>
+<blockquote>&ldquo;Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 <!-- #quote-end -->
