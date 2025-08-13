@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Human behavior flows from three main sources: desire, emotion, and knowledge.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;Life belongs to the living, and he who lives must be prepared for changes.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote>
 <!-- #quote-end -->
