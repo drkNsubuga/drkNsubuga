@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  &rdquo; &mdash; <footer>Seneca</footer></blockquote>
+<blockquote>&ldquo;If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 <!-- #quote-end -->
