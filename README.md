@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;We can't help everyone, but everyone can help someone.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+<blockquote>&ldquo;If life were predictable it would cease to be life, and be without flavor.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 <!-- #quote-end -->
