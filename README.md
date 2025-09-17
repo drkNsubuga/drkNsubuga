@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The measure of who we are is what we do with what we have.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;Go and do the things you can't. That is how you get to do them.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 <!-- #quote-end -->
