@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Waste no more time arguing about what a good man should be. Be one.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+<blockquote>&ldquo;Change is hard at first, messy in the middle and gorgeous at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 <!-- #quote-end -->
