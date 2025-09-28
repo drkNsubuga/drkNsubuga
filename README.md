@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+<blockquote>&ldquo;What you get by achieving your goals is not as important as what you become by achieving your goals.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
 <!-- #quote-end -->
