@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.&rdquo; &mdash; <footer>Betty White</footer></blockquote>
+<blockquote>&ldquo;You are the only real obstacle in your path to a fulfilling life.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 <!-- #quote-end -->
