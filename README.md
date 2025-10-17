@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;The important thing is not to stop questioning. Curiosity has its own reason for existing.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 <!-- #quote-end -->
