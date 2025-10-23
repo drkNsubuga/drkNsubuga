@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Every man is guilty of all the good he did not do. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+<blockquote>&ldquo;Some people are old at 18 and some are young at 90. Time is a concept that humans created.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 <!-- #quote-end -->
