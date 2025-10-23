@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Some people are old at 18 and some are young at 90. Time is a concept that humans created.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+<blockquote>&ldquo;It is the greatest of all mistakes to do nothing because you can only do little; do something.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
 <!-- #quote-end -->
