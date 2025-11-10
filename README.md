@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+<blockquote>&ldquo;Take into account that great love and great achievements involve great risk.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 <!-- #quote-end -->
