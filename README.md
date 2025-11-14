@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;There is no absolute success in the world, only constant progress.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+<blockquote>&ldquo;The only limits in our life are those we impose on ourselves.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 <!-- #quote-end -->
