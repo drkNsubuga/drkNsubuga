@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Success is good at any age, but the sooner you find it, the longer you will enjoy it.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+<blockquote>&ldquo;No great discovery was ever made without a bold guess. &rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 <!-- #quote-end -->
