@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Perfection is not attainable, but if we chase perfection we can catch excellence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>
+<blockquote>&ldquo;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 <!-- #quote-end -->
