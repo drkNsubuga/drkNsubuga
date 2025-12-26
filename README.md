@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The worst part of success is trying to find someone who is happy for you.&rdquo; &mdash; <footer>Bette Midler</footer></blockquote>
+<blockquote>&ldquo;Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 <!-- #quote-end -->
