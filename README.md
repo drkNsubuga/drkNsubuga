@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>
+<blockquote>&ldquo;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
