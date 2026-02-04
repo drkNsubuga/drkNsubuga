@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A hopeless man is a very desperate and dangerous man, almost a dead man.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+<blockquote>&ldquo;A single act of kindness throws out roots in all directions, and the roots spring up and make new trees.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote>
 <!-- #quote-end -->
