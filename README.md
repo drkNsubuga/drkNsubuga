@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The season of failure is the best time for sowing the seeds of success. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+<blockquote>&ldquo;Strive for excellence, not perfection, because we don't live in a perfect world.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
 <!-- #quote-end -->
