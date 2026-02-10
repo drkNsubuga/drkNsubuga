@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The less you try to impress, the more peaceful you can be.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+<blockquote>&ldquo;My powers are ordinary. Only my application brings me success.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 <!-- #quote-end -->
