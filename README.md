@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &rdquo; &mdash; <footer>Jack London</footer></blockquote>
+<blockquote>&ldquo;Realize deeply that the present moment is all you ever have. &rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <!-- #quote-end -->
