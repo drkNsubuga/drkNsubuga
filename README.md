@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The wise learn many things from their enemies.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
+<blockquote>&ldquo;You will succeed because most people are lazy.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
 <!-- #quote-end -->
