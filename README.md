@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;You must be willing to do what others won't do, to have what others won't have.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Guilt is perhaps the most painful companion of death.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 <!-- #quote-end -->
