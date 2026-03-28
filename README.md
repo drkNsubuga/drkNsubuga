@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Always focus on the front windshield and not the rear view mirror.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
+<blockquote>&ldquo;I don't pretend to know everything; I just only speak on matters I know I'll win.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 <!-- #quote-end -->
