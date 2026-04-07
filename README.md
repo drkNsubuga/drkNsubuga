@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Courage is knowing what not to fear.&rdquo; &mdash; <footer>Plato</footer></blockquote>
+<blockquote>&ldquo;Even the smallest person can change the course of the future.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>
 <!-- #quote-end -->
