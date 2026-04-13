@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;I don't pretend to know everything; I just only speak on matters I know I'll win.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+<blockquote>&ldquo;Note that this journey is uniquely yours, no one elses. So the path has to be your own.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote>
 <!-- #quote-end -->
