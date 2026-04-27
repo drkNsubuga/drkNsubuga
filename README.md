@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;All human wisdom is contained in these two words - Wait and Hope&rdquo; &mdash; <footer>Alexandre Dumas</footer></blockquote>
+<blockquote>&ldquo;Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. &rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>
 <!-- #quote-end -->
