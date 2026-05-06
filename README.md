@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;If you don't program yourself, life will program you.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+<blockquote>&ldquo;Change will not come if we wait for some other person, or if we wait for some other time.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>
 <!-- #quote-end -->
