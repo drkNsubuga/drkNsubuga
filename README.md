@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Realistic people do not accomplish extraordinary things.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>
+<blockquote>&ldquo;I am not what happened to me, I am what I choose to become.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
 <!-- #quote-end -->
