@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The attempt to escape from pain, is what creates more pain.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>
+<blockquote>&ldquo;The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>
 <!-- #quote-end -->
