@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Life is what happens to you while you&#039;re busy making other plans.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>
+<blockquote>&ldquo;We are like islands in the sea, separate on the surface but connected in the deep.&rdquo; &mdash; <footer>William James</footer></blockquote>
 <!-- #quote-end -->
