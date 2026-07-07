@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Nothing external to you has any power over you.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
+<blockquote>&ldquo;A goal is a dream with a deadline.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 <!-- #quote-end -->
