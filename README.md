@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;As you think, you travel, and as you love, you attract.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+<blockquote>&ldquo;Nothing external to you has any power over you.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote>
 <!-- #quote-end -->
