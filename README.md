@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Learn from the mistakes of others. You can&#039;t live long enough to make them all yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;A memory is a beautiful thing, it&#039;s almost a desire that you miss.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 <!-- #quote-end -->
