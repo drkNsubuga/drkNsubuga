@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A memory is a beautiful thing, it&#039;s almost a desire that you miss.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
+<blockquote>&ldquo;Wherever you are, it&#039;s the place you need to be.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 <!-- #quote-end -->
