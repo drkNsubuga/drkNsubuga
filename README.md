@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Believe you can and you&#039;re halfway there.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+<blockquote>&ldquo;Don&#039;t just sit there. Do something. The answers will follow.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
 <!-- #quote-end -->
