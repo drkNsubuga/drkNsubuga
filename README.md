@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A fall into a ditch makes you wiser.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+<blockquote>&ldquo;As soon as you truly commit to making something happen, the &#039;how&#039; will reveal itself.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 <!-- #quote-end -->
