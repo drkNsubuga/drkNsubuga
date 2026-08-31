@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Everything that is done in the world is done by hope.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
+<blockquote>&ldquo;Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 <!-- #quote-end -->
