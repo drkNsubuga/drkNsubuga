@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Dreams have only one owner at a time. That&#039;s why dreamers are lonely.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
+<blockquote>&ldquo;Much learning does not teach understanding.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>
 <!-- #quote-end -->
