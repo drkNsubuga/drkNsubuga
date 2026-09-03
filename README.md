@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Keep others in suspense, cultivate an air of unpredictability.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>
+<blockquote>&ldquo;Dreams have only one owner at a time. That&#039;s why dreamers are lonely.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 <!-- #quote-end -->
