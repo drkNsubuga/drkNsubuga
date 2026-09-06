@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Great things are not done by impulse, but by a series of small things brought together.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>
+<blockquote>&ldquo;Wise people, even though all laws were abolished, would still lead the same life.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>
 <!-- #quote-end -->
