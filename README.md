@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;There are three classes of people: those who see. Those who see when they are shown. Those who do not see.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
+<blockquote>&ldquo;There are no secrets to success. It is the result of preparation, hard work, and learning from failure.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 <!-- #quote-end -->
