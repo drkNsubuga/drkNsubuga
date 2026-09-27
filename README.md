@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;A child without education is like a bird without wings.&rdquo; &mdash; <footer>Tibetan Proverb</footer></blockquote>
+<blockquote>&ldquo;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
 <!-- #quote-end -->
