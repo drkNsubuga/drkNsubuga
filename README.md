@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.&rdquo; &mdash; <footer>James Cameron</footer></blockquote>
+<blockquote>&ldquo;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 <!-- #quote-end -->
