@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Fear can hold you prisoner. Hope can set you free.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>
+<blockquote>&ldquo;Do Something. If it works, do more of it. If it doesn&#039;t, do something else.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 <!-- #quote-end -->
