@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Greatness lies not in being strong, but in the right use of strength.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+<blockquote>&ldquo;It&#039;s not what happens to you, but how you react to it that matters.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 <!-- #quote-end -->
