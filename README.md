@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Heal the past, live the present, dream the future.&rdquo; &mdash; <footer>Mary Engelbreit</footer></blockquote>
+<blockquote>&ldquo;It takes real work to grasp what is invisible to just about everyone else.&rdquo; &mdash; <footer>Ryan Holiday</footer></blockquote>
 <!-- #quote-end -->
