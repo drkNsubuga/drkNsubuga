@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;Motivation is what gets you started. Habit is what keeps you going.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+<blockquote>&ldquo;Respect other people&#039;s feelings. It might mean nothing to you, but it could mean everything to them.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 <!-- #quote-end -->
