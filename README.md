@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The meaning of life is just to be alive. It is so plain and so obvious and so simple.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+<blockquote>&ldquo;To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 <!-- #quote-end -->
