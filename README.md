@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;The giving of love is an education in itself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+<blockquote>&ldquo;At every moment where language can&#039;t go, that&#039;s your mind.&rdquo; &mdash; <footer>Bodhidharma</footer></blockquote>
 <!-- #quote-end -->
