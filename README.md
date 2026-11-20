@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote>
+<blockquote>&ldquo;Old age is like everything else. To make a success of it, you&#039;ve got to start young.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 <!-- #quote-end -->
