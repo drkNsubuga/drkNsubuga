@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;You don&#039;t know who is important to you until you actually lose them.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>
+<blockquote>&ldquo;We can choose to look at whatever we want.  We can look at what&#039;s wrong in our life or we can look at what&#039;s right.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
 <!-- #quote-end -->
