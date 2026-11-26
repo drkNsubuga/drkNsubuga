@@ -1,5 +1,5 @@
 # Hi, I'm Derrick 👋!
 <p align="justify">I admire uniqueness and believe that a clearly focused mind can achieve anything...</p> 
 <!-- #quote-start -->
-<blockquote>&ldquo;It does not matter how slowly you go as long as you do not stop.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
+<blockquote>&ldquo;If you&#039;re not making mistakes, then you&#039;re not doing anything.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 <!-- #quote-end -->
